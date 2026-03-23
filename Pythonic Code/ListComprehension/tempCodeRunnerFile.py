@@ -1,0 +1,1 @@
+sqaure = [lambda y: y**2, numbers]
