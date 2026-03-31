@@ -115,7 +115,33 @@ sim_1_3 = sim_user1_and_user3/(np.linalg.norm(users[0]) * (np.linalg.norm(users[
 sim_1_4 = sim_user1_and_user4/(np.linalg.norm(users[0]) * (np.linalg.norm(users[3])))
 sim_1_5 = sim_user1_and_user5/(np.linalg.norm(users[0]) * (np.linalg.norm(users[4])))
 
-print(sim_1_2)
-print(sim_1_3)
-print(sim_1_4)
-print(sim_1_5)
+# print(sim_1_2)
+# print(sim_1_3)
+# print(sim_1_4)
+# print(sim_1_5)
+
+
+#Mini Project - 03 Dimensionality Reduction
+
+X = np.array([
+    [2, 3],
+    [3, 4],
+    [4, 5],
+    [5, 6]
+])
+
+X_mean = np.mean(X, axis = 0)
+center_value = X - X_mean
+
+X_cov = np.cov(center_value.T)
+
+eigenvalues, eigenvectors = np.linalg.eig(X_cov)
+
+principle_vec = eigenvectors[:, np.argmax(eigenvalues)]
+
+X_reduced = center_value @ principle_vec
+
+print("Original Data:\n", X)
+print("Original Data Rotated :\n", X.T)
+print("Reduced Data:\n", X_reduced)
+
