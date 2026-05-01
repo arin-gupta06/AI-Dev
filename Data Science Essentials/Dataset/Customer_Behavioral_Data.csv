@@ -1,0 +1,551 @@
+CustomerID,Date,Age,Annual_Income,Credit_Score,Purchase_Amount,Customer_Lifetime_Value,Monthly_Spending,Website_Visits,Product_Category,Customer_Segment,Payment_Method,Satisfaction_Score,Loyalty_Member,Days_Since_Last_Purchase,Number_of_Purchases,Return_Rate,Email_Campaign_Response,Product_Review,Discount_Availed
+1001,2022-04-13,,69897.68,,137.62,2342.8,109.42,9.0,Home,Budget,Credit Card,2.0,Yes,193.0,2.0,21.85,Yes,Positive,No
+1002,2022-12-15,35.0,40419.92,566.0,150.81,679.55,545.79,,Beauty,Budget,Bank Transfer,3.0,No,307.0,3.0,12.55,No,Negative,No
+1003,2022-09-28,,51912.34,763.0,11.04,5102.24,810.45,10.0,Sports,Budget,Bank Transfer,1.0,Yes,132.0,5.0,14.06,No,,Yes
+1004,2022-04-17,36.0,30619.19,683.0,44.03,,523.81,11.0,Sports,VIP,Debit Card,4.0,No,280.0,4.0,27.46,No,Neutral,No
+1005,2022-03-13,18.0,89612.99,705.0,87.59,3157.56,693.56,4.0,Sports,Budget,Bank Transfer,,Yes,290.0,5.0,,Yes,Positive,Yes
+1006,2022-07-08,50.0,34052.79,,95.94,4439.13,1174.24,,Beauty,Premium,Debit Card,1.0,No,,7.0,24.75,Yes,Positive,No
+1007,2022-01-21,27.0,25025.23,641.0,7.01,1792.68,1022.7,12.0,Beauty,Budget,PayPal,,Yes,277.0,6.0,2.89,No,Neutral,No
+1008,2022-04-13,60.0,73807.37,726.0,29.42,428.02,1030.35,8.0,Beauty,Regular,Credit Card,3.0,Yes,202.0,4.0,6.68,No,Neutral,Yes
+1009,2022-05-02,43.0,11800.2,636.0,48.61,1261.47,221.73,,Electronics,Premium,Bank Transfer,1.0,Yes,95.0,5.0,5.35,No,Positive,Yes
+1010,2022-08-03,,54221.17,796.0,533.85,3599.2,550.02,10.0,Beauty,Regular,Debit Card,4.0,No,222.0,3.0,15.03,No,Positive,Yes
+1011,2022-11-27,40.0,15772.32,736.0,60.37,3623.85,376.14,9.0,Sports,Regular,PayPal,4.0,Yes,236.0,1.0,27.5,No,Positive,No
+1012,2022-03-29,,100946.05,739.0,128.28,3132.71,371.13,5.0,Clothing,Regular,Debit Card,1.0,Yes,116.0,4.0,58.0,No,,Yes
+1013,2022-04-10,29.0,29471.48,629.0,32.74,5758.6,713.54,8.0,Beauty,Premium,Credit Card,,Yes,191.0,5.0,34.28,No,Positive,No
+1014,2022-12-26,37.0,,656.0,141.54,1484.19,496.23,10.0,Clothing,Premium,Bank Transfer,1.0,No,275.0,6.0,,No,Neutral,Yes
+1015,2022-06-01,45.0,50516.55,561.0,49.42,3077.94,316.55,9.0,Sports,VIP,PayPal,4.0,Yes,,4.0,23.97,,Neutral,No
+1016,2022-05-11,29.0,7756.24,,34.79,5922.48,191.54,2.0,Beauty,Premium,Debit Card,2.0,Yes,3.0,5.0,18.75,No,Negative,Yes
+1017,2022-05-30,27.0,21580.21,576.0,109.03,,499.26,8.0,Electronics,Budget,PayPal,4.0,Yes,17.0,7.0,23.7,No,Positive,Yes
+1018,2022-11-05,30.0,83686.82,811.0,1.08,,293.62,7.0,Electronics,Regular,Debit Card,2.0,Yes,306.0,5.0,7.15,Yes,Positive,Yes
+1019,2022-09-15,,72708.39,685.0,1.5,940.31,711.18,4.0,Clothing,VIP,Debit Card,5.0,Yes,19.0,5.0,34.25,No,Neutral,No
+1020,2022-12-10,52.0,45543.62,697.0,37.09,8079.0,696.18,8.0,Electronics,Premium,Credit Card,1.0,Yes,121.0,9.0,17.67,Yes,Neutral,No
+1021,2022-10-21,39.0,12337.88,657.0,5.61,15850.66,448.94,13.0,Electronics,Regular,Credit Card,2.0,No,136.0,,31.52,Yes,Positive,Yes
+1022,2022-07-11,41.0,58011.86,699.0,17.15,12214.02,132.97,5.0,Electronics,Premium,Debit Card,,No,79.0,5.0,19.97,No,,Yes
+1023,2022-10-04,,64261.74,850.0,80.69,3938.63,240.83,4.0,Sports,VIP,Bank Transfer,,Yes,153.0,,41.86,,Positive,Yes
+1024,2022-06-10,45.0,,649.0,243.37,703.62,1058.64,9.0,Electronics,Premium,PayPal,,Yes,357.0,5.0,,No,Positive,No
+1025,2022-11-10,41.0,96619.59,614.0,165.51,2958.32,487.45,,Home,Premium,PayPal,2.0,No,24.0,4.0,16.28,No,Positive,Yes
+1026,2022-01-22,26.0,21020.52,732.0,107.82,19432.58,808.57,6.0,Beauty,Regular,Credit Card,5.0,Yes,,3.0,21.71,No,Negative,No
+1027,2022-09-10,18.0,24151.79,427.0,52.11,6261.57,138.89,,Electronics,Budget,Bank Transfer,1.0,No,58.0,7.0,36.59,No,Positive,No
+1028,2022-08-24,20.0,4975.65,,402.69,2323.96,1913.67,11.0,Electronics,Premium,Debit Card,2.0,Yes,300.0,5.0,18.32,No,Positive,No
+1029,2022-12-11,26.0,75800.64,642.0,98.64,,62.63,8.0,Electronics,VIP,Credit Card,4.0,Yes,40.0,3.0,44.67,No,Positive,No
+1030,2022-02-18,48.0,46680.86,,,649.84,492.7,4.0,Home,Premium,Debit Card,3.0,Yes,37.0,3.0,8.39,Yes,Neutral,Yes
+1031,2022-02-28,,,730.0,143.98,1293.61,55.75,6.0,Electronics,Premium,Debit Card,,No,116.0,6.0,,No,Negative,No
+1032,2022-06-19,29.0,8893.9,685.0,18.13,811.57,711.16,9.0,Electronics,Budget,Credit Card,1.0,Yes,274.0,7.0,22.49,No,Positive,Yes
+1033,2022-07-07,30.0,18067.96,499.0,63.52,5236.91,165.3,9.0,Beauty,Regular,Bank Transfer,1.0,Yes,,7.0,,Yes,,Yes
+1034,2022-09-28,,68523.11,615.0,138.08,,296.32,6.0,Home,VIP,PayPal,4.0,Yes,126.0,4.0,,No,Positive,No
+1035,2022-07-09,35.0,28558.55,391.0,310.99,2478.5,426.6,10.0,Home,Regular,Credit Card,4.0,No,2.0,,12.99,,,Yes
+1036,2022-06-24,46.0,19075.7,709.0,,1045.74,585.19,6.0,Electronics,Regular,Bank Transfer,4.0,No,292.0,1.0,35.04,Yes,Positive,Yes
+1037,2022-02-20,28.0,16237.96,708.0,181.73,2911.14,292.17,4.0,Home,Regular,Debit Card,1.0,Yes,15.0,,9.03,No,Negative,Yes
+1038,2022-12-30,46.0,15666.35,600.0,740.4,1662.54,391.09,4.0,Clothing,Premium,Credit Card,1.0,Yes,264.0,3.0,35.94,No,Positive,Yes
+1039,2022-02-24,32.0,7731.49,734.0,21.15,1146.64,413.56,8.0,Home,Budget,PayPal,1.0,No,238.0,2.0,4.82,No,Positive,Yes
+1040,2022-09-01,45.0,,551.0,48.18,,353.02,9.0,Home,Premium,PayPal,4.0,Yes,,6.0,38.0,No,Positive,Yes
+1041,2022-11-16,31.0,15421.8,583.0,75.27,,288.42,10.0,Home,VIP,Debit Card,4.0,Yes,133.0,2.0,15.43,,,Yes
+1042,2022-05-11,27.0,62698.86,721.0,,455.04,223.21,13.0,Sports,Budget,Credit Card,2.0,Yes,212.0,,27.26,No,Neutral,No
+1043,2022-11-03,57.0,31806.36,611.0,,594.11,429.99,11.0,Sports,Regular,PayPal,5.0,No,14.0,6.0,4.05,No,Negative,No
+1044,2022-05-15,47.0,18760.94,673.0,357.26,435.32,419.49,8.0,Sports,Budget,Credit Card,5.0,Yes,327.0,6.0,14.4,Yes,Positive,No
+1045,2022-01-21,18.0,230447.47,623.0,244.12,4011.88,189.2,11.0,Home,VIP,PayPal,4.0,No,359.0,,24.08,No,Positive,No
+1046,2022-11-25,29.0,21351.61,638.0,140.44,3570.59,289.53,1.0,Clothing,Premium,Debit Card,4.0,Yes,128.0,6.0,26.85,No,,No
+1047,2022-06-16,49.0,92381.53,643.0,72.18,3363.12,56.48,14.0,Home,Premium,Debit Card,5.0,Yes,351.0,5.0,9.24,No,,No
+1048,2022-10-01,20.0,132838.16,,,,277.2,10.0,Electronics,Regular,Credit Card,5.0,No,121.0,7.0,7.13,No,Neutral,No
+1049,2022-03-30,44.0,10342.65,710.0,465.37,12460.9,58.69,9.0,Clothing,Premium,Bank Transfer,5.0,Yes,240.0,7.0,6.14,No,Positive,No
+1050,2022-11-12,43.0,38529.15,,258.22,1464.52,227.55,10.0,Sports,Premium,Bank Transfer,4.0,Yes,114.0,9.0,5.8,Yes,Positive,Yes
+1051,2022-01-14,26.0,24003.94,,0.23,4855.04,133.95,6.0,Beauty,VIP,Debit Card,5.0,No,196.0,5.0,,,Positive,No
+1052,2022-08-30,34.0,22490.77,,151.76,447.85,172.89,12.0,Clothing,Budget,PayPal,4.0,No,221.0,4.0,22.36,No,Neutral,No
+1053,2022-09-22,18.0,56630.41,526.0,7.87,15591.04,826.59,,Sports,Premium,Bank Transfer,,No,213.0,7.0,19.34,No,Neutral,No
+1054,2022-12-12,56.0,22064.02,771.0,44.68,,117.31,11.0,Clothing,VIP,Debit Card,4.0,No,79.0,5.0,14.36,No,Negative,No
+1055,2022-02-22,31.0,24421.64,729.0,9.21,1271.44,244.65,7.0,Clothing,VIP,PayPal,4.0,No,,5.0,6.69,Yes,Positive,Yes
+1056,2022-12-06,,31745.56,,138.87,,426.63,7.0,Home,Regular,PayPal,2.0,Yes,134.0,4.0,35.41,No,Negative,Yes
+1057,2022-04-02,42.0,26937.66,575.0,,,42.87,7.0,Electronics,VIP,Bank Transfer,,Yes,305.0,9.0,17.36,,Positive,No
+1058,2022-09-21,51.0,14202.08,,131.54,3099.79,296.06,3.0,Beauty,Regular,Debit Card,1.0,No,241.0,5.0,25.36,Yes,Positive,No
+1059,2022-02-04,29.0,68646.48,667.0,94.43,3853.3,398.18,,Sports,Premium,PayPal,4.0,Yes,302.0,6.0,20.01,No,Negative,Yes
+1060,2022-07-25,37.0,,778.0,118.8,2374.88,127.3,7.0,Clothing,Regular,PayPal,3.0,No,269.0,,21.07,No,Neutral,Yes
+1061,2022-03-22,41.0,47805.45,629.0,69.08,469.52,84.03,14.0,Beauty,VIP,Credit Card,4.0,No,286.0,6.0,9.01,No,Neutral,No
+1062,2022-02-19,45.0,26869.79,562.0,19.35,32211.01,578.52,9.0,Clothing,Budget,Credit Card,1.0,Yes,,8.0,15.19,No,Neutral,Yes
+1063,2022-12-26,48.0,20657.45,800.0,81.44,5762.21,45.03,4.0,Electronics,Budget,Bank Transfer,4.0,No,188.0,4.0,27.08,No,Positive,Yes
+1064,2022-01-02,,20683.76,648.0,208.65,70337.93,241.64,12.0,Beauty,Premium,Credit Card,4.0,Yes,296.0,6.0,12.79,Yes,Neutral,Yes
+1065,2022-02-23,27.0,239402.4,767.0,14.36,1134.41,111.33,9.0,Sports,Premium,Debit Card,4.0,Yes,13.0,3.0,21.77,No,,Yes
+1066,2022-04-16,51.0,76900.73,756.0,,9409.35,21.41,5.0,Clothing,Budget,Bank Transfer,2.0,No,231.0,3.0,20.62,Yes,Positive,Yes
+1067,2022-09-17,18.0,,677.0,65.72,7594.11,718.28,,Electronics,Regular,Bank Transfer,2.0,Yes,260.0,7.0,5.43,Yes,Neutral,No
+1068,2022-11-06,53.0,,,426.39,2103.4,542.14,7.0,Beauty,Premium,Credit Card,5.0,Yes,191.0,4.0,9.52,No,Neutral,Yes
+1069,2022-07-10,,27172.81,640.0,,16208.01,759.7,13.0,Clothing,VIP,PayPal,5.0,Yes,202.0,2.0,19.36,No,Positive,Yes
+1070,2022-08-06,34.0,57932.88,678.0,170.29,1832.63,369.92,10.0,Clothing,Premium,Debit Card,1.0,No,260.0,1.0,,No,Positive,No
+1071,2022-02-13,,56094.85,766.0,,1933.2,111.51,10.0,Sports,Regular,Debit Card,,No,,7.0,26.84,No,Positive,No
+1072,2022-06-11,34.0,86412.51,600.0,175.61,46.26,220.3,5.0,Electronics,Premium,Debit Card,4.0,No,351.0,2.0,34.39,No,Neutral,Yes
+1073,2022-07-21,,18389.86,690.0,1.53,4869.92,79.72,7.0,Home,VIP,Bank Transfer,5.0,No,35.0,5.0,46.28,No,Negative,No
+1074,2022-09-27,,,568.0,151.63,607.52,267.67,5.0,Clothing,VIP,Debit Card,4.0,Yes,78.0,6.0,,No,Neutral,No
+1075,2022-12-17,40.0,8965.71,580.0,366.77,1539.38,686.43,11.0,Beauty,VIP,PayPal,4.0,No,274.0,7.0,1.76,No,Positive,No
+1076,2022-10-31,36.0,13281.51,676.0,142.23,870.04,221.84,7.0,Sports,Regular,PayPal,3.0,No,277.0,5.0,16.74,No,Neutral,No
+1077,2022-09-28,,,,403.47,1920.85,430.57,9.0,Sports,Regular,Credit Card,3.0,Yes,161.0,5.0,19.14,Yes,Negative,No
+1078,2022-08-03,,16974.25,850.0,,5077.92,405.65,7.0,Clothing,VIP,Debit Card,,Yes,,8.0,22.86,No,,Yes
+1079,2022-09-09,,18532.35,,19.27,3021.08,102.94,8.0,Clothing,VIP,Bank Transfer,4.0,No,16.0,5.0,7.26,No,,No
+1080,2022-07-09,40.0,36075.8,675.0,349.11,6985.34,105.54,6.0,Clothing,Regular,Credit Card,,No,,6.0,26.34,No,Neutral,No
+1081,2022-10-23,35.0,63310.65,796.0,13.41,,534.69,2.0,Home,Regular,PayPal,,No,16.0,3.0,4.71,No,Positive,Yes
+1082,2022-08-01,46.0,15542.58,,114.52,1914.95,151.94,6.0,Clothing,Regular,Debit Card,5.0,No,,9.0,15.33,Yes,Positive,No
+1083,2022-07-27,40.0,2242.51,449.0,,,448.3,,Electronics,Budget,PayPal,2.0,Yes,209.0,5.0,2.84,No,Neutral,No
+1084,2022-08-25,35.0,18102.79,635.0,1.77,9407.6,149.46,12.0,Beauty,Regular,Credit Card,1.0,No,77.0,5.0,15.78,No,Neutral,No
+1085,2022-12-04,,95273.07,592.0,,10347.05,180.7,5.0,Clothing,VIP,PayPal,5.0,Yes,55.0,7.0,9.9,No,Negative,Yes
+1086,2022-02-22,39.0,47786.96,452.0,52.44,7249.65,441.51,5.0,Home,Budget,Debit Card,5.0,Yes,79.0,4.0,10.89,,Neutral,Yes
+1087,2022-10-07,29.0,104725.7,708.0,129.78,,286.45,6.0,Beauty,Regular,Debit Card,3.0,No,305.0,6.0,23.87,No,,No
+1088,2022-08-05,57.0,14684.49,700.0,605.75,4950.21,250.88,6.0,Sports,VIP,Credit Card,4.0,Yes,57.0,4.0,45.84,Yes,Positive,Yes
+1089,2022-09-09,49.0,,,6.71,3399.44,136.63,9.0,Clothing,Premium,Debit Card,2.0,No,,5.0,17.22,,Neutral,No
+1090,2022-07-07,56.0,52577.25,567.0,19.69,10541.07,364.24,12.0,Beauty,Budget,PayPal,1.0,Yes,207.0,6.0,3.6,No,Positive,Yes
+1091,2022-02-10,33.0,44003.22,,,1499.0,159.31,10.0,Sports,VIP,PayPal,4.0,Yes,134.0,2.0,16.88,No,,No
+1092,2022-06-06,46.0,46371.65,639.0,63.05,403.46,486.43,5.0,Home,Premium,Bank Transfer,2.0,Yes,331.0,,13.68,No,,No
+1093,2022-01-15,18.0,76603.44,671.0,254.72,6824.57,139.24,10.0,Electronics,VIP,Bank Transfer,4.0,Yes,9.0,2.0,7.71,No,Positive,Yes
+1094,2022-10-28,,50886.25,772.0,158.46,,248.62,12.0,Clothing,Regular,Bank Transfer,5.0,Yes,68.0,5.0,11.0,No,Positive,Yes
+1095,2022-03-06,33.0,50236.35,821.0,280.24,1239.15,492.74,4.0,Electronics,Regular,PayPal,4.0,Yes,340.0,5.0,10.72,No,Positive,Yes
+1096,2022-12-11,18.0,64344.43,801.0,229.96,,415.81,,Home,Premium,PayPal,2.0,No,82.0,2.0,36.29,No,Neutral,Yes
+1097,2022-11-23,47.0,54281.2,707.0,84.3,866.17,439.9,8.0,Beauty,Regular,Credit Card,3.0,Yes,108.0,5.0,17.32,Yes,,No
+1098,2022-01-09,18.0,72110.63,759.0,217.95,1213.38,298.04,7.0,Beauty,VIP,Bank Transfer,4.0,Yes,43.0,,5.41,Yes,Negative,No
+1099,2022-12-10,18.0,81374.45,615.0,62.81,12846.78,111.57,,Home,Premium,PayPal,2.0,Yes,131.0,2.0,39.17,No,,Yes
+1100,2022-05-09,39.0,123667.41,696.0,71.32,7979.78,596.51,6.0,Home,VIP,Credit Card,4.0,No,17.0,4.0,,No,,No
+1101,2022-05-16,41.0,21604.28,560.0,233.37,,326.33,8.0,Clothing,VIP,PayPal,4.0,Yes,92.0,6.0,47.23,No,Positive,Yes
+1102,2022-03-04,,53340.42,,88.7,11618.43,190.99,9.0,Sports,VIP,Credit Card,4.0,No,293.0,7.0,74.89,Yes,Neutral,No
+1103,2022-05-19,43.0,27004.03,688.0,240.21,833.17,177.65,11.0,Electronics,Regular,Bank Transfer,4.0,No,147.0,7.0,13.6,No,Positive,Yes
+1104,2022-03-22,52.0,18641.64,850.0,259.25,707.73,936.0,11.0,Electronics,Regular,Bank Transfer,1.0,Yes,,3.0,14.82,Yes,Negative,No
+1105,2022-06-12,,20918.05,,292.33,8402.76,282.98,6.0,Beauty,VIP,Bank Transfer,4.0,Yes,50.0,6.0,13.33,No,,No
+1106,2022-10-16,33.0,53958.17,689.0,372.68,5976.39,86.67,8.0,Beauty,Budget,PayPal,3.0,No,18.0,9.0,13.46,Yes,,No
+1107,2022-09-18,34.0,50746.71,703.0,84.58,1715.88,736.6,10.0,Clothing,VIP,PayPal,4.0,No,119.0,6.0,14.01,No,Neutral,No
+1108,2022-08-19,31.0,,634.0,57.6,763.14,247.62,6.0,Home,VIP,Credit Card,4.0,No,323.0,8.0,19.38,Yes,Positive,No
+1109,2022-02-10,38.0,30315.94,599.0,,17183.04,201.29,7.0,Electronics,Premium,Debit Card,1.0,Yes,224.0,7.0,19.02,,Positive,No
+1110,2022-01-28,21.0,36414.85,,69.58,378.37,121.02,6.0,Clothing,VIP,Debit Card,4.0,Yes,65.0,,7.53,,Negative,No
+1111,2022-05-15,39.0,69856.76,581.0,179.2,,338.86,8.0,Beauty,Regular,Bank Transfer,,Yes,140.0,3.0,4.19,Yes,Positive,Yes
+1112,2022-07-20,33.0,11031.23,547.0,,3921.74,618.71,8.0,Beauty,Premium,Debit Card,4.0,Yes,188.0,10.0,4.58,No,Neutral,No
+1113,2022-11-24,38.0,37038.52,748.0,174.91,,348.09,13.0,Electronics,Budget,Bank Transfer,1.0,Yes,157.0,4.0,,No,Negative,Yes
+1114,2022-09-25,38.0,39025.28,795.0,70.39,4720.74,217.81,5.0,Beauty,Premium,Credit Card,1.0,No,97.0,3.0,10.85,Yes,Positive,No
+1115,2022-02-02,18.0,66346.31,634.0,35.6,5304.79,71.63,,Beauty,Budget,Debit Card,1.0,Yes,,10.0,20.86,No,Positive,No
+1116,2022-02-17,24.0,12330.13,,84.46,1505.29,261.39,8.0,Sports,Premium,Debit Card,2.0,No,245.0,12.0,3.77,No,Positive,No
+1117,2022-03-03,33.0,120103.24,708.0,30.0,5896.87,401.9,11.0,Home,Premium,Bank Transfer,1.0,No,343.0,2.0,25.25,,,No
+1118,2022-08-04,34.0,43083.89,609.0,,3382.5,151.76,7.0,Beauty,Budget,Credit Card,,Yes,,3.0,16.26,No,Positive,Yes
+1119,2022-10-20,38.0,44948.13,601.0,63.67,443.12,758.53,8.0,Sports,Regular,Debit Card,,No,32.0,2.0,12.84,Yes,Negative,No
+1120,2022-04-09,38.0,,767.0,25.17,7719.63,222.71,4.0,Clothing,Regular,Debit Card,4.0,Yes,360.0,8.0,3.88,Yes,,Yes
+1121,2022-06-21,53.0,,740.0,3.87,9551.68,424.49,7.0,Beauty,Regular,Debit Card,2.0,No,240.0,3.0,28.27,Yes,,Yes
+1122,2022-12-26,38.0,,811.0,155.69,7816.86,230.88,8.0,Clothing,Premium,Credit Card,5.0,Yes,329.0,7.0,2.43,No,Positive,Yes
+1123,2022-08-02,31.0,,554.0,151.96,3102.59,564.28,,Beauty,VIP,Credit Card,,Yes,337.0,5.0,11.12,No,,Yes
+1124,2022-02-04,18.0,,629.0,62.46,946.33,363.61,8.0,Electronics,Premium,Debit Card,3.0,No,274.0,6.0,11.22,Yes,,No
+1125,2022-08-15,,,708.0,,186.6,906.93,7.0,Sports,VIP,Bank Transfer,4.0,Yes,70.0,2.0,,No,Positive,No
+1126,2022-04-11,41.0,50352.82,587.0,79.05,3599.19,370.21,9.0,Sports,VIP,Bank Transfer,4.0,No,312.0,4.0,50.73,No,Positive,No
+1127,2022-05-11,47.0,,744.0,,10919.77,481.6,9.0,Electronics,Regular,Debit Card,1.0,Yes,215.0,9.0,31.75,No,Positive,Yes
+1128,2022-09-14,53.0,,802.0,,9844.21,386.5,10.0,Home,VIP,Credit Card,4.0,Yes,78.0,7.0,18.02,Yes,Negative,No
+1129,2022-01-05,25.0,27163.63,621.0,,7936.97,113.03,4.0,Sports,Premium,Debit Card,4.0,Yes,,4.0,3.29,,Neutral,No
+1130,2022-08-06,31.0,,683.0,68.02,2726.97,725.8,5.0,Clothing,Premium,Credit Card,4.0,Yes,297.0,,37.17,No,Neutral,No
+1131,2022-09-12,37.0,,825.0,36.86,10992.37,426.41,,Sports,Regular,Debit Card,1.0,Yes,179.0,,6.51,Yes,Neutral,No
+1132,2022-12-25,,78590.96,850.0,863.04,9036.2,490.9,13.0,Home,Budget,Credit Card,4.0,No,,5.0,28.98,No,Neutral,No
+1133,2022-10-10,36.0,24733.02,754.0,90.77,1795.14,660.37,13.0,Clothing,Premium,PayPal,4.0,No,259.0,2.0,30.04,No,Positive,Yes
+1134,2022-07-26,53.0,40224.93,739.0,174.84,,679.75,7.0,Clothing,VIP,Bank Transfer,4.0,No,259.0,7.0,21.62,No,Neutral,No
+1135,2022-01-15,37.0,,594.0,,1566.89,123.9,8.0,Electronics,Premium,PayPal,1.0,No,4.0,,10.05,No,Negative,No
+1136,2022-12-12,48.0,23845.62,715.0,99.71,5698.9,100.11,6.0,Beauty,Premium,Bank Transfer,2.0,Yes,296.0,,12.56,No,Positive,No
+1137,2022-02-11,47.0,32701.27,735.0,4.19,627.07,163.24,10.0,Electronics,Premium,Credit Card,3.0,No,107.0,6.0,34.37,,Negative,Yes
+1138,2022-06-28,36.0,7128.16,658.0,105.62,687.7,103.38,8.0,Beauty,Budget,PayPal,3.0,Yes,342.0,4.0,10.53,,Positive,No
+1139,2022-03-04,22.0,65231.57,620.0,648.32,10613.14,226.42,5.0,Electronics,VIP,Bank Transfer,5.0,No,359.0,4.0,11.78,No,Positive,No
+1140,2022-12-18,31.0,86168.09,551.0,94.54,9182.66,115.25,10.0,Beauty,Regular,Debit Card,,Yes,116.0,,5.0,,Neutral,No
+1141,2022-08-19,52.0,9313.36,506.0,5.97,6376.24,122.95,,Sports,Premium,Credit Card,2.0,No,356.0,4.0,27.1,No,,No
+1142,2022-08-29,45.0,26233.85,485.0,4.72,3312.84,416.47,,Clothing,VIP,Credit Card,4.0,No,,6.0,17.56,,,Yes
+1143,2022-02-21,29.0,13576.62,737.0,73.65,169.1,63.11,10.0,Beauty,VIP,Debit Card,4.0,No,330.0,9.0,46.76,No,Neutral,Yes
+1144,2022-04-06,30.0,31502.04,,26.16,2724.8,335.89,1.0,Sports,Regular,Debit Card,1.0,No,12.0,,34.04,No,Positive,No
+1145,2022-08-10,18.0,61017.08,631.0,4.61,5141.09,594.85,5.0,Home,Premium,Bank Transfer,2.0,No,141.0,3.0,5.5,No,Neutral,No
+1146,2022-08-19,52.0,80005.22,646.0,275.24,1569.2,591.53,10.0,Electronics,Budget,Credit Card,4.0,No,187.0,6.0,5.66,Yes,,No
+1147,2022-08-25,45.0,89097.14,701.0,119.62,1267.76,501.9,13.0,Home,VIP,Bank Transfer,4.0,Yes,280.0,5.0,19.38,Yes,Positive,Yes
+1148,2022-05-23,33.0,103614.76,663.0,66.58,,548.35,11.0,Sports,Regular,Debit Card,5.0,Yes,114.0,,,Yes,,No
+1149,2022-06-20,,30396.11,545.0,,2772.91,525.8,6.0,Home,Budget,Credit Card,4.0,Yes,235.0,2.0,,,Positive,Yes
+1150,2022-01-29,18.0,14507.67,771.0,18.52,5144.86,120.05,9.0,Home,VIP,Debit Card,4.0,Yes,337.0,3.0,14.02,No,,No
+1151,2022-02-05,29.0,33134.42,710.0,468.26,7547.4,268.33,11.0,Sports,Premium,Bank Transfer,,Yes,9.0,1.0,9.91,Yes,,Yes
+1152,2022-01-13,51.0,60271.46,706.0,56.52,896.3,511.4,8.0,Clothing,VIP,Bank Transfer,5.0,Yes,198.0,5.0,2.6,No,Positive,No
+1153,2022-06-09,46.0,13604.99,,328.93,3758.78,219.74,6.0,Beauty,Budget,Bank Transfer,1.0,Yes,,7.0,14.45,,Positive,No
+1154,2022-11-23,38.0,137051.16,598.0,180.12,14524.23,221.61,4.0,Electronics,Budget,Credit Card,4.0,No,,3.0,,Yes,Positive,No
+1155,2022-07-06,34.0,,801.0,341.79,26451.49,396.12,10.0,Beauty,Premium,Debit Card,2.0,No,141.0,3.0,22.27,No,Positive,No
+1156,2022-08-31,,30783.87,665.0,620.4,3127.29,999.92,,Electronics,Premium,Debit Card,5.0,Yes,270.0,8.0,14.53,,Positive,No
+1157,2022-03-27,31.0,20564.11,768.0,51.04,2240.53,578.14,,Beauty,Regular,Bank Transfer,1.0,Yes,15.0,3.0,11.53,,,Yes
+1158,2022-10-11,18.0,21262.56,753.0,487.15,4116.79,65.2,6.0,Home,Premium,Bank Transfer,2.0,Yes,1.0,1.0,15.36,No,,No
+1159,2022-03-07,34.0,,,,3993.26,366.07,8.0,Clothing,Regular,Bank Transfer,,Yes,157.0,5.0,36.91,No,,No
+1160,2022-06-19,39.0,30226.61,,73.04,15742.35,134.84,8.0,Home,Budget,Bank Transfer,,No,29.0,12.0,24.4,No,Neutral,Yes
+1161,2022-02-14,48.0,,712.0,62.42,901.74,605.33,10.0,Clothing,Budget,PayPal,3.0,Yes,81.0,4.0,37.27,,,No
+1162,2022-03-03,18.0,27601.33,683.0,116.94,2130.59,772.11,7.0,Sports,VIP,PayPal,5.0,Yes,30.0,6.0,18.6,Yes,,No
+1163,2022-05-14,33.0,54415.34,,25.11,780.11,1109.35,8.0,Electronics,VIP,PayPal,4.0,No,235.0,3.0,,No,,Yes
+1164,2022-10-11,34.0,35484.81,671.0,121.02,884.91,589.22,8.0,Electronics,Regular,Bank Transfer,4.0,No,332.0,6.0,13.44,No,Positive,Yes
+1165,2022-01-28,21.0,45059.34,761.0,,4683.91,468.94,13.0,Sports,Premium,Bank Transfer,5.0,Yes,147.0,8.0,12.26,No,,No
+1166,2022-04-18,40.0,30210.8,737.0,215.26,7878.0,481.92,8.0,Beauty,Premium,Debit Card,5.0,No,,7.0,5.03,No,Positive,No
+1167,2022-02-13,43.0,63970.19,683.0,,1367.49,132.11,6.0,Sports,VIP,Credit Card,4.0,Yes,,5.0,22.74,No,Neutral,Yes
+1168,2022-12-06,31.0,64733.37,530.0,113.22,7528.97,308.88,9.0,Sports,Budget,Debit Card,5.0,Yes,,3.0,3.93,No,Positive,No
+1169,2022-10-13,59.0,52467.19,729.0,54.0,11315.11,373.28,6.0,Clothing,Regular,PayPal,1.0,Yes,,5.0,47.96,Yes,Negative,No
+1170,2022-11-27,31.0,59042.42,752.0,45.03,30383.26,186.88,7.0,Sports,Budget,Debit Card,3.0,Yes,96.0,11.0,10.72,No,Positive,Yes
+1171,2022-05-08,29.0,17060.22,850.0,32.47,3241.19,455.02,6.0,Electronics,Budget,Bank Transfer,2.0,Yes,229.0,3.0,32.84,No,Neutral,Yes
+1172,2022-12-14,29.0,47032.62,787.0,8.91,1383.38,1210.91,12.0,Home,Premium,PayPal,3.0,Yes,226.0,,6.58,Yes,Neutral,No
+1173,2022-08-19,25.0,98652.75,490.0,81.75,895.19,507.4,4.0,Clothing,Regular,PayPal,3.0,No,99.0,5.0,25.98,No,,No
+1174,2022-07-09,,53805.11,687.0,47.26,794.61,316.59,7.0,Clothing,Budget,Credit Card,5.0,No,54.0,0.0,22.03,No,Positive,No
+1175,2022-08-13,18.0,,850.0,509.06,13356.21,463.76,6.0,Beauty,VIP,Credit Card,4.0,Yes,194.0,5.0,27.24,No,,Yes
+1176,2022-10-10,32.0,34898.07,742.0,122.37,483.9,367.9,,Home,VIP,PayPal,4.0,Yes,7.0,5.0,24.1,No,Negative,Yes
+1177,2022-05-01,35.0,49019.94,712.0,63.99,,261.36,3.0,Clothing,Premium,PayPal,3.0,No,,,31.66,,,No
+1178,2022-04-26,18.0,19812.74,770.0,130.29,1051.39,85.06,7.0,Sports,VIP,Debit Card,4.0,Yes,127.0,1.0,14.9,,,No
+1179,2022-08-21,33.0,12251.25,617.0,22.48,1309.96,532.03,,Clothing,VIP,PayPal,4.0,No,31.0,4.0,5.06,Yes,,Yes
+1180,2022-09-16,35.0,,727.0,,2485.26,457.0,7.0,Clothing,Budget,Bank Transfer,5.0,No,92.0,5.0,,No,Positive,No
+1181,2022-12-25,41.0,20077.08,,147.62,1281.28,458.22,5.0,Clothing,VIP,Debit Card,,Yes,6.0,2.0,41.74,No,Negative,Yes
+1182,2022-07-17,49.0,35902.74,678.0,,9121.37,728.7,10.0,Beauty,VIP,Bank Transfer,4.0,Yes,257.0,4.0,20.53,No,Neutral,No
+1183,2022-05-17,,10166.73,,77.07,26265.53,216.56,8.0,Clothing,Budget,Bank Transfer,5.0,Yes,340.0,,24.46,Yes,Positive,Yes
+1184,2022-11-14,27.0,57054.42,587.0,763.66,1354.36,316.01,6.0,Clothing,Premium,Bank Transfer,5.0,Yes,219.0,4.0,,No,Positive,Yes
+1185,2022-06-14,26.0,21857.86,,318.43,1774.57,158.29,7.0,Beauty,Premium,PayPal,4.0,Yes,239.0,6.0,25.26,No,Positive,No
+1186,2022-08-13,,80547.45,637.0,190.43,2450.42,209.48,6.0,Home,Regular,Credit Card,,No,105.0,,5.18,No,,Yes
+1187,2022-11-03,28.0,29099.64,706.0,126.38,5705.97,97.58,14.0,Electronics,VIP,Credit Card,4.0,Yes,,7.0,25.99,No,Negative,No
+1188,2022-08-22,20.0,35585.33,,510.67,2479.52,167.77,9.0,Beauty,Budget,Bank Transfer,,Yes,44.0,8.0,16.35,Yes,Positive,Yes
+1189,2022-06-21,63.0,,751.0,33.72,,427.85,7.0,Beauty,Regular,PayPal,5.0,Yes,297.0,4.0,,No,Positive,Yes
+1190,2022-06-01,31.0,20941.17,824.0,75.41,11801.11,1137.06,8.0,Clothing,Premium,Debit Card,2.0,Yes,308.0,6.0,27.27,No,Negative,Yes
+1191,2022-11-11,27.0,262452.02,628.0,7.85,718.7,116.19,8.0,Clothing,Premium,Bank Transfer,4.0,Yes,8.0,5.0,,No,Positive,Yes
+1192,2022-06-09,18.0,,568.0,96.81,5570.06,259.0,12.0,Electronics,Budget,Debit Card,,Yes,86.0,,20.04,No,Positive,Yes
+1193,2022-04-06,45.0,82356.88,707.0,152.71,18479.31,1005.73,10.0,Clothing,Regular,Debit Card,5.0,Yes,330.0,4.0,49.3,Yes,,No
+1194,2022-08-21,,15140.02,825.0,38.77,,479.52,11.0,Sports,Regular,PayPal,1.0,No,176.0,2.0,21.23,Yes,Positive,Yes
+1195,2022-06-29,,,,498.76,2094.11,407.04,,Clothing,Budget,PayPal,2.0,Yes,,2.0,38.23,,Positive,Yes
+1196,2022-04-23,46.0,53268.36,569.0,360.29,1581.86,149.71,5.0,Clothing,Budget,Credit Card,4.0,No,194.0,10.0,8.31,,Negative,No
+1197,2022-11-14,23.0,35619.85,634.0,192.1,,280.51,6.0,Sports,Regular,Credit Card,5.0,Yes,10.0,2.0,15.17,No,Neutral,Yes
+1198,2022-02-21,35.0,22998.77,597.0,114.34,402.57,195.64,,Electronics,Premium,PayPal,2.0,Yes,305.0,4.0,7.41,No,Positive,No
+1199,2022-09-25,53.0,,598.0,306.0,605.48,448.68,6.0,Sports,VIP,Bank Transfer,4.0,Yes,121.0,8.0,2.68,No,Positive,Yes
+1200,2022-10-22,18.0,26301.16,470.0,21.0,3271.38,456.38,10.0,Beauty,Premium,Credit Card,1.0,No,234.0,3.0,7.26,No,Neutral,Yes
+1201,2022-04-23,25.0,248108.4,,304.8,18330.43,227.07,10.0,Sports,Budget,Debit Card,5.0,Yes,330.0,12.0,18.63,No,Positive,No
+1202,2022-04-11,24.0,35664.73,713.0,20.0,1427.91,264.19,7.0,Home,Regular,Bank Transfer,,Yes,30.0,2.0,7.96,Yes,,No
+1203,2022-04-23,32.0,55265.88,,237.14,1378.42,730.35,8.0,Beauty,Regular,Debit Card,5.0,Yes,347.0,3.0,7.35,No,Positive,Yes
+1204,2022-03-22,34.0,151040.01,825.0,62.92,22967.27,788.11,12.0,Clothing,VIP,PayPal,5.0,Yes,223.0,,10.57,No,Neutral,Yes
+1205,2022-07-06,,18014.73,848.0,314.45,788.47,245.15,,Beauty,Regular,Debit Card,,Yes,152.0,3.0,22.61,No,,Yes
+1206,2022-04-23,27.0,37426.27,604.0,432.47,406.06,250.97,8.0,Electronics,VIP,Bank Transfer,4.0,No,211.0,6.0,17.88,Yes,Positive,Yes
+1207,2022-01-02,25.0,,,24.17,1102.99,109.6,,Electronics,Premium,PayPal,3.0,Yes,91.0,4.0,21.93,,Positive,No
+1208,2022-05-10,30.0,33897.25,622.0,93.17,1345.69,263.42,5.0,Sports,Premium,Bank Transfer,5.0,No,,4.0,,No,Positive,Yes
+1209,2022-08-08,37.0,31470.01,,594.4,366.15,337.02,6.0,Beauty,Regular,Debit Card,5.0,Yes,,0.0,10.95,No,Negative,No
+1210,2022-02-23,,20221.43,596.0,99.08,,433.21,9.0,Clothing,Regular,Bank Transfer,2.0,No,128.0,9.0,47.45,No,,Yes
+1211,2022-12-09,47.0,42460.45,850.0,298.77,9303.4,271.52,8.0,Electronics,Budget,PayPal,4.0,No,196.0,,,No,Positive,No
+1212,2022-08-12,,15520.14,650.0,133.28,637.05,827.14,,Clothing,Budget,Debit Card,3.0,Yes,,1.0,24.11,No,Positive,No
+1213,2022-08-13,24.0,80106.01,692.0,,3311.29,855.4,5.0,Home,Regular,Debit Card,5.0,No,227.0,5.0,19.11,No,Neutral,No
+1214,2022-05-06,34.0,59793.24,611.0,50.49,4794.01,1156.29,8.0,Electronics,Regular,Credit Card,2.0,No,193.0,3.0,3.89,No,Positive,Yes
+1215,2022-05-10,63.0,24470.65,850.0,34.08,,432.41,4.0,Sports,Premium,Credit Card,3.0,Yes,17.0,3.0,4.64,No,Neutral,No
+1216,2022-02-22,47.0,25438.35,850.0,215.2,3725.03,262.03,3.0,Home,Regular,Bank Transfer,3.0,Yes,332.0,7.0,4.85,No,Neutral,No
+1217,2022-06-21,29.0,45270.39,,,3777.41,409.21,13.0,Beauty,Budget,Credit Card,1.0,No,,9.0,23.73,No,Positive,No
+1218,2022-08-06,53.0,19171.19,775.0,107.39,1124.09,276.92,6.0,Clothing,Premium,Credit Card,2.0,Yes,,,10.93,No,Negative,No
+1219,2022-06-09,30.0,154752.77,,132.19,,733.52,7.0,Electronics,VIP,Credit Card,4.0,Yes,126.0,5.0,36.1,No,Positive,No
+1220,2022-07-17,26.0,48355.76,762.0,129.16,13323.81,532.55,10.0,Home,Budget,Credit Card,1.0,No,74.0,4.0,17.45,No,Positive,No
+1221,2022-09-04,51.0,49742.28,,301.01,12430.32,225.46,7.0,Home,Budget,PayPal,4.0,Yes,61.0,2.0,6.02,No,Neutral,Yes
+1222,2022-11-20,19.0,,811.0,592.45,10060.89,539.03,8.0,Electronics,Premium,PayPal,1.0,No,287.0,6.0,11.41,No,Negative,No
+1223,2022-07-22,18.0,22843.67,791.0,78.53,450.35,53.78,8.0,Beauty,VIP,Credit Card,4.0,No,185.0,8.0,21.3,No,Neutral,No
+1224,2022-07-03,46.0,86786.64,615.0,342.71,9056.83,893.8,7.0,Beauty,Budget,Bank Transfer,5.0,No,177.0,6.0,2.33,,Neutral,Yes
+1225,2022-05-03,35.0,,774.0,,6546.73,184.66,,Sports,Regular,PayPal,3.0,Yes,165.0,4.0,14.99,Yes,Positive,No
+1226,2022-09-12,36.0,77661.61,748.0,166.18,471.62,815.96,8.0,Beauty,Budget,Credit Card,2.0,Yes,182.0,7.0,18.68,No,Positive,No
+1227,2022-10-21,30.0,30996.75,,468.7,2303.32,225.25,9.0,Sports,Premium,PayPal,4.0,Yes,,7.0,29.41,No,Positive,No
+1228,2022-10-07,32.0,104174.49,760.0,43.63,4155.35,352.66,6.0,Home,Premium,Debit Card,5.0,Yes,329.0,5.0,28.69,No,,Yes
+1229,2022-11-21,29.0,50064.87,636.0,17.36,21964.45,253.81,8.0,Electronics,Premium,PayPal,1.0,Yes,246.0,,14.97,No,Positive,Yes
+1230,2022-04-08,27.0,208148.2,591.0,375.16,7112.92,461.46,11.0,Beauty,Budget,PayPal,2.0,Yes,,5.0,17.32,Yes,Positive,No
+1231,2022-07-17,30.0,27021.35,595.0,86.75,1056.29,115.61,12.0,Sports,VIP,Bank Transfer,4.0,Yes,21.0,5.0,23.91,No,Negative,No
+1232,2022-08-28,30.0,,666.0,281.57,22798.87,24.61,7.0,Home,Regular,PayPal,4.0,Yes,95.0,8.0,19.92,No,Positive,No
+1233,2022-05-24,25.0,15910.57,728.0,335.37,,776.58,9.0,Beauty,Premium,Bank Transfer,1.0,No,121.0,7.0,32.12,No,,No
+1234,2022-04-07,28.0,,543.0,9.67,2192.92,888.06,6.0,Clothing,VIP,Debit Card,4.0,No,249.0,,34.07,,Positive,No
+1235,2022-07-20,18.0,59572.49,698.0,322.43,2013.15,224.92,9.0,Home,Regular,Credit Card,1.0,No,307.0,3.0,40.17,No,Positive,Yes
+1236,2022-05-04,43.0,89631.27,737.0,115.98,424.85,160.01,5.0,Beauty,Premium,Bank Transfer,1.0,No,333.0,6.0,37.96,No,Positive,Yes
+1237,2022-07-06,39.0,389262.14,850.0,139.28,2613.06,278.61,13.0,Home,Regular,PayPal,2.0,Yes,,4.0,37.06,No,Positive,Yes
+1238,2022-11-22,33.0,,572.0,,,118.07,12.0,Electronics,Regular,PayPal,4.0,No,136.0,,35.65,Yes,Positive,Yes
+1239,2022-12-15,37.0,17213.16,,391.33,1877.21,430.39,8.0,Electronics,VIP,Bank Transfer,,No,276.0,4.0,7.94,Yes,Positive,No
+1240,2022-09-16,38.0,66347.45,706.0,3.76,,245.86,8.0,Electronics,Regular,Debit Card,3.0,Yes,319.0,4.0,18.4,No,Positive,No
+1241,2022-05-28,26.0,14731.42,794.0,97.18,1056.51,218.76,5.0,Clothing,Premium,Credit Card,4.0,Yes,331.0,12.0,21.29,Yes,,No
+1242,2022-09-09,28.0,57035.09,649.0,174.58,2517.16,202.3,9.0,Electronics,VIP,PayPal,,Yes,60.0,3.0,15.41,Yes,Positive,No
+1243,2022-12-12,41.0,24299.12,799.0,192.4,4358.35,306.65,,Clothing,Budget,Debit Card,5.0,Yes,,4.0,20.06,Yes,Positive,No
+1244,2022-05-27,37.0,,486.0,,3742.81,249.02,8.0,Electronics,Budget,Credit Card,,Yes,94.0,,5.18,No,Positive,No
+1245,2022-05-28,59.0,86928.12,554.0,28.15,434.17,312.72,10.0,Home,VIP,Credit Card,4.0,Yes,295.0,4.0,27.53,No,,No
+1246,2022-12-18,54.0,33236.81,714.0,53.37,,187.37,8.0,Beauty,Budget,PayPal,4.0,No,183.0,3.0,6.79,No,Negative,Yes
+1247,2022-07-18,46.0,76596.24,538.0,86.64,22313.69,665.82,13.0,Beauty,Regular,Bank Transfer,1.0,Yes,259.0,3.0,25.92,Yes,Positive,No
+1248,2022-11-04,25.0,73022.79,,318.22,1650.88,430.39,3.0,Electronics,Premium,PayPal,3.0,Yes,286.0,6.0,38.93,No,,Yes
+1249,2022-05-08,28.0,8172.54,,49.02,3038.04,314.5,9.0,Beauty,Regular,PayPal,3.0,No,154.0,6.0,22.28,No,Neutral,Yes
+1250,2022-02-08,22.0,17654.03,,35.49,2686.23,133.31,4.0,Electronics,VIP,PayPal,4.0,Yes,185.0,5.0,3.37,,Neutral,No
+1251,2022-12-04,38.0,10410.34,490.0,473.55,19572.64,637.49,12.0,Electronics,Premium,Debit Card,1.0,No,,,,No,Negative,Yes
+1252,2022-12-26,18.0,180122.0,,1.74,14022.83,195.65,8.0,Sports,VIP,Bank Transfer,4.0,Yes,325.0,4.0,5.64,No,Positive,Yes
+1253,2022-05-09,29.0,33379.14,783.0,919.32,7856.03,351.72,6.0,Sports,VIP,Debit Card,5.0,No,260.0,6.0,11.82,No,Neutral,No
+1254,2022-09-24,31.0,150943.88,660.0,220.26,927.14,202.87,,Sports,VIP,PayPal,4.0,Yes,,5.0,9.66,No,Negative,No
+1255,2022-05-31,18.0,,643.0,264.45,4587.18,532.68,8.0,Clothing,Regular,Bank Transfer,3.0,Yes,,4.0,11.4,No,Positive,Yes
+1256,2022-10-25,44.0,22966.35,720.0,52.35,5893.06,199.33,7.0,Sports,Premium,Credit Card,,Yes,7.0,3.0,25.95,Yes,Positive,Yes
+1257,2022-04-09,21.0,68899.11,660.0,2.81,1289.07,540.6,,Electronics,Premium,Bank Transfer,,No,264.0,3.0,8.67,No,Positive,No
+1258,2022-09-20,38.0,41915.87,,200.84,1048.78,170.59,9.0,Home,Premium,PayPal,1.0,No,,5.0,26.75,No,Positive,Yes
+1259,2022-09-09,68.0,55619.43,568.0,269.5,23063.74,41.95,6.0,Sports,Regular,Bank Transfer,2.0,Yes,248.0,,,No,Positive,No
+1260,2022-05-24,18.0,13319.09,,202.34,,187.57,5.0,Sports,Budget,Credit Card,3.0,No,104.0,3.0,33.43,No,Neutral,No
+1261,2022-12-12,33.0,109255.32,700.0,30.06,20701.72,402.77,7.0,Home,Regular,Credit Card,2.0,Yes,,3.0,43.3,,Positive,Yes
+1262,2022-04-22,30.0,67616.88,642.0,273.02,9862.67,111.3,8.0,Electronics,Regular,Bank Transfer,5.0,No,223.0,,8.85,No,Positive,Yes
+1263,2022-03-01,27.0,,392.0,219.75,4863.2,290.88,8.0,Clothing,VIP,Credit Card,4.0,No,327.0,,,No,,No
+1264,2022-01-02,44.0,20983.92,663.0,161.18,5130.91,291.42,7.0,Sports,Premium,Debit Card,2.0,Yes,270.0,3.0,23.22,No,Positive,No
+1265,2022-10-31,48.0,47053.48,770.0,217.94,555.29,992.11,,Home,Premium,Bank Transfer,1.0,Yes,164.0,4.0,24.65,,Positive,Yes
+1266,2022-09-11,44.0,,757.0,280.54,3820.47,156.15,5.0,Electronics,Budget,Credit Card,3.0,No,82.0,9.0,20.51,No,Positive,Yes
+1267,2022-05-20,26.0,9697.34,715.0,142.63,16324.54,924.11,12.0,Beauty,Budget,Credit Card,5.0,No,294.0,5.0,18.49,No,,Yes
+1268,2022-02-06,64.0,34879.75,,13.92,6752.09,157.02,7.0,Clothing,VIP,Bank Transfer,4.0,No,,5.0,,Yes,Positive,No
+1269,2022-06-09,18.0,32036.0,719.0,100.31,3587.48,487.56,10.0,Home,Premium,Debit Card,1.0,No,210.0,4.0,6.05,No,,Yes
+1270,2022-01-09,22.0,84958.76,622.0,15.76,23256.14,256.14,5.0,Home,Budget,Bank Transfer,4.0,Yes,,4.0,,No,Positive,Yes
+1271,2022-08-21,37.0,6078.17,715.0,78.52,2387.38,226.28,8.0,Home,Budget,Credit Card,2.0,No,91.0,1.0,25.32,Yes,Neutral,Yes
+1272,2022-04-09,36.0,43833.77,692.0,78.41,1417.33,83.85,6.0,Sports,Premium,Bank Transfer,1.0,Yes,,2.0,5.77,,Positive,No
+1273,2022-05-27,40.0,14408.1,582.0,57.91,,485.27,6.0,Beauty,Regular,Credit Card,4.0,No,126.0,7.0,12.87,No,Negative,No
+1274,2022-10-31,53.0,46881.51,,64.35,7478.3,652.96,,Clothing,Budget,PayPal,,Yes,,4.0,11.77,,Neutral,No
+1275,2022-07-27,33.0,48992.58,715.0,,379.42,473.85,10.0,Electronics,Premium,Bank Transfer,1.0,Yes,158.0,5.0,10.83,No,Negative,Yes
+1276,2022-05-11,36.0,33878.1,,247.72,4195.81,184.01,9.0,Electronics,Budget,Bank Transfer,4.0,Yes,,6.0,8.18,,Positive,Yes
+1277,2022-06-01,27.0,69274.66,,575.35,7882.61,245.22,9.0,Beauty,VIP,Credit Card,4.0,Yes,334.0,6.0,22.67,,Negative,Yes
+1278,2022-02-23,42.0,13405.05,,11.26,2156.91,282.85,9.0,Home,Budget,Credit Card,1.0,Yes,9.0,6.0,18.82,No,Negative,Yes
+1279,2022-04-30,31.0,88095.47,649.0,605.21,11252.64,515.29,5.0,Home,Premium,Credit Card,5.0,No,106.0,5.0,13.63,No,Neutral,No
+1280,2022-06-10,31.0,20610.11,836.0,110.9,,712.25,11.0,Home,Budget,Credit Card,2.0,No,86.0,7.0,,No,,Yes
+1281,2022-04-26,,10459.66,627.0,53.41,38935.42,266.08,7.0,Home,VIP,Bank Transfer,5.0,Yes,,,,Yes,Positive,Yes
+1282,2022-03-16,47.0,29204.65,678.0,12.0,1211.09,49.21,6.0,Home,VIP,Credit Card,5.0,No,61.0,5.0,8.66,Yes,Positive,No
+1283,2022-04-23,18.0,6794.54,690.0,104.16,8077.61,48.49,5.0,Beauty,Budget,Bank Transfer,4.0,No,145.0,,22.71,No,Positive,No
+1284,2022-04-14,39.0,44504.21,566.0,237.36,879.37,169.04,10.0,Sports,Budget,Debit Card,5.0,Yes,152.0,10.0,22.37,Yes,Neutral,No
+1285,2022-12-06,31.0,29513.4,503.0,184.18,429.04,634.96,8.0,Clothing,VIP,Bank Transfer,5.0,Yes,106.0,3.0,19.08,No,,No
+1286,2022-09-11,46.0,97435.85,577.0,10.05,,494.05,10.0,Home,VIP,Credit Card,4.0,No,147.0,8.0,12.83,No,Neutral,No
+1287,2022-08-15,31.0,61031.13,704.0,14.76,5687.29,535.65,9.0,Sports,Regular,Credit Card,4.0,No,185.0,4.0,35.0,No,Positive,No
+1288,2022-04-22,50.0,11925.13,688.0,77.34,3718.58,179.12,10.0,Electronics,Regular,Debit Card,2.0,Yes,348.0,3.0,20.67,Yes,Positive,No
+1289,2022-04-09,26.0,18569.77,750.0,52.5,1677.63,229.5,,Beauty,VIP,Bank Transfer,4.0,No,341.0,7.0,,Yes,Positive,Yes
+1290,2022-06-02,18.0,55079.43,689.0,39.67,354.89,621.83,9.0,Sports,Budget,Debit Card,1.0,Yes,,5.0,27.29,,Positive,Yes
+1291,2022-12-15,47.0,71515.05,669.0,64.33,1301.84,952.67,11.0,Home,Premium,Bank Transfer,,Yes,334.0,7.0,57.19,No,Neutral,No
+1292,2022-12-04,24.0,,619.0,244.05,2995.64,630.71,10.0,Home,Budget,Credit Card,4.0,Yes,265.0,10.0,40.74,No,Positive,No
+1293,2022-07-13,18.0,95952.39,768.0,516.42,7721.8,630.97,,Home,Budget,Bank Transfer,5.0,Yes,148.0,,15.88,Yes,Neutral,No
+1294,2022-11-06,35.0,33805.61,588.0,77.9,2922.39,172.11,9.0,Sports,Regular,Credit Card,2.0,No,246.0,6.0,,No,,No
+1295,2022-06-12,32.0,,568.0,354.85,4033.83,519.93,9.0,Home,Regular,Credit Card,,No,253.0,,11.0,No,,Yes
+1296,2022-07-27,44.0,102640.8,736.0,75.63,1898.16,95.89,2.0,Sports,Regular,PayPal,5.0,Yes,28.0,6.0,22.63,No,Positive,No
+1297,2022-06-18,45.0,,546.0,97.06,24320.36,694.18,,Home,VIP,PayPal,4.0,Yes,351.0,5.0,22.94,Yes,Positive,No
+1298,2022-06-10,36.0,49206.5,850.0,38.43,,424.62,,Electronics,VIP,Bank Transfer,5.0,No,265.0,3.0,10.12,No,Positive,No
+1299,2022-03-09,24.0,27959.03,687.0,,1288.09,264.77,5.0,Electronics,Budget,Credit Card,4.0,No,12.0,6.0,27.93,No,Positive,Yes
+1300,2022-10-16,38.0,23370.77,714.0,579.35,1651.06,31.18,2.0,Clothing,Budget,Debit Card,3.0,No,46.0,4.0,39.74,No,Neutral,Yes
+1301,2022-10-04,36.0,37748.77,599.0,138.76,5717.26,258.05,,Home,Premium,Credit Card,1.0,No,150.0,6.0,4.46,Yes,Neutral,No
+1302,2022-10-31,41.0,20951.49,648.0,66.43,856.94,327.54,6.0,Home,Budget,Debit Card,1.0,Yes,49.0,3.0,7.55,Yes,Positive,Yes
+1303,2022-05-15,24.0,32704.48,637.0,156.54,3508.21,353.31,6.0,Sports,Budget,Bank Transfer,1.0,No,214.0,3.0,39.5,No,,Yes
+1304,2022-07-14,30.0,15867.62,625.0,19.67,3633.28,267.77,8.0,Sports,Regular,Bank Transfer,3.0,Yes,131.0,5.0,23.45,Yes,Neutral,No
+1305,2022-05-08,41.0,31194.73,743.0,329.27,1295.65,211.33,,Home,Regular,Debit Card,4.0,Yes,112.0,7.0,5.61,No,Positive,Yes
+1306,2022-02-02,49.0,51985.09,,104.9,4429.2,155.34,7.0,Clothing,Regular,Debit Card,5.0,Yes,251.0,4.0,17.1,No,Positive,No
+1307,2022-06-25,46.0,,781.0,89.5,,952.11,6.0,Home,Regular,Credit Card,2.0,Yes,340.0,9.0,14.13,No,Negative,No
+1308,2022-01-22,35.0,36586.46,850.0,132.23,780.17,1133.53,8.0,Sports,Regular,Bank Transfer,4.0,No,52.0,3.0,,No,Positive,No
+1309,2022-08-26,29.0,40598.0,650.0,,3359.43,386.63,9.0,Home,Premium,Credit Card,3.0,No,129.0,8.0,21.7,No,Neutral,No
+1310,2022-06-07,39.0,52157.74,695.0,11.17,406.79,166.86,8.0,Sports,Premium,Debit Card,3.0,Yes,323.0,4.0,51.02,No,,No
+1311,2022-02-07,21.0,32634.85,717.0,172.15,227.29,126.68,7.0,Home,Premium,PayPal,1.0,Yes,192.0,5.0,0.16,No,Negative,No
+1312,2022-08-18,25.0,86568.65,850.0,54.01,5649.94,266.23,12.0,Beauty,Regular,PayPal,2.0,Yes,78.0,8.0,10.64,No,Neutral,No
+1313,2022-12-31,53.0,,671.0,187.74,10496.15,1104.83,8.0,Sports,VIP,PayPal,4.0,Yes,56.0,5.0,,No,Positive,No
+1314,2022-02-20,39.0,380865.77,597.0,337.15,1702.47,400.63,6.0,Clothing,Regular,Debit Card,3.0,No,96.0,5.0,34.92,No,Positive,Yes
+1315,2022-09-21,30.0,,553.0,,1337.18,741.24,9.0,Beauty,Regular,Credit Card,1.0,No,197.0,4.0,21.99,No,Negative,No
+1316,2022-10-10,44.0,50146.9,674.0,120.61,9963.09,731.81,7.0,Home,Premium,Bank Transfer,2.0,No,134.0,,7.33,No,Positive,Yes
+1317,2022-01-27,,17140.95,635.0,110.15,753.97,531.84,8.0,Sports,Regular,Debit Card,3.0,No,146.0,,,Yes,Neutral,Yes
+1318,2022-08-14,29.0,60804.22,850.0,23.13,,117.42,9.0,Beauty,Premium,PayPal,1.0,No,171.0,5.0,0.89,No,Negative,Yes
+1319,2022-10-04,29.0,45308.74,850.0,223.98,6968.56,733.7,7.0,Clothing,Regular,Credit Card,1.0,Yes,62.0,6.0,21.23,Yes,Neutral,No
+1320,2022-10-13,28.0,,576.0,47.5,3013.46,104.07,7.0,Sports,Budget,Bank Transfer,5.0,Yes,64.0,7.0,33.39,No,Positive,Yes
+1321,2022-04-07,46.0,85688.15,608.0,133.88,10698.43,173.06,6.0,Beauty,VIP,Bank Transfer,4.0,Yes,294.0,4.0,47.8,No,Positive,No
+1322,2022-10-11,46.0,31851.23,687.0,50.17,228.53,413.1,7.0,Beauty,VIP,Debit Card,5.0,Yes,210.0,6.0,6.4,Yes,Positive,No
+1323,2022-11-13,51.0,56261.89,,21.55,555.12,245.04,10.0,Beauty,Premium,Debit Card,2.0,No,108.0,3.0,8.53,Yes,Positive,Yes
+1324,2022-10-31,47.0,17435.65,685.0,148.96,3032.67,410.01,10.0,Electronics,Budget,Bank Transfer,2.0,Yes,281.0,4.0,15.49,No,Negative,No
+1325,2022-05-27,18.0,35429.14,615.0,,4920.71,98.02,,Home,VIP,Bank Transfer,4.0,Yes,171.0,7.0,,No,Neutral,Yes
+1326,2022-01-04,38.0,180362.83,674.0,269.27,8237.04,173.45,,Sports,Premium,PayPal,2.0,Yes,11.0,6.0,19.96,No,Neutral,No
+1327,2022-02-04,22.0,,617.0,57.32,3676.74,516.39,6.0,Sports,Regular,Bank Transfer,3.0,No,332.0,2.0,13.98,No,Positive,No
+1328,2022-07-11,28.0,,740.0,0.02,3632.17,1678.97,8.0,Sports,Regular,Debit Card,,Yes,219.0,,,No,Positive,Yes
+1329,2022-02-18,37.0,,609.0,107.35,1868.18,849.98,7.0,Beauty,Budget,Credit Card,4.0,No,341.0,8.0,36.07,Yes,Positive,No
+1330,2022-01-17,45.0,38330.41,628.0,7.2,20112.28,68.38,,Home,VIP,PayPal,4.0,No,,3.0,19.38,No,Positive,No
+1331,2022-06-21,24.0,42533.73,796.0,48.48,793.44,265.5,8.0,Clothing,Regular,PayPal,1.0,Yes,171.0,7.0,22.43,,Positive,No
+1332,2022-08-08,18.0,52019.96,603.0,184.13,4586.28,197.68,9.0,Sports,Premium,Bank Transfer,3.0,Yes,235.0,6.0,,No,Positive,No
+1333,2022-06-07,37.0,15346.94,535.0,9.71,911.08,325.26,9.0,Home,Regular,Credit Card,3.0,No,165.0,9.0,6.3,Yes,Positive,No
+1334,2022-02-15,,61989.88,689.0,356.55,5663.14,409.42,10.0,Home,Regular,PayPal,,Yes,186.0,,,,,Yes
+1335,2022-01-06,,15188.98,,0.57,858.84,208.27,7.0,Electronics,VIP,Debit Card,4.0,No,,6.0,34.15,No,Negative,Yes
+1336,2022-04-09,35.0,133906.98,731.0,55.27,7277.76,669.94,4.0,Sports,VIP,Bank Transfer,4.0,Yes,51.0,4.0,40.68,No,,No
+1337,2022-08-21,,,,202.58,3410.2,751.73,6.0,Beauty,Premium,Debit Card,5.0,Yes,318.0,4.0,14.71,No,Neutral,No
+1338,2022-02-06,42.0,46041.69,676.0,57.03,,723.62,7.0,Home,Budget,Bank Transfer,2.0,No,188.0,,26.95,Yes,Positive,Yes
+1339,2022-10-07,37.0,81154.83,673.0,20.96,2127.66,148.21,6.0,Home,Budget,PayPal,5.0,No,,4.0,22.69,No,Positive,No
+1340,2022-12-15,40.0,29676.06,,67.0,4963.96,424.98,10.0,Clothing,Regular,Bank Transfer,1.0,No,,,,Yes,Positive,Yes
+1341,2022-10-29,38.0,47690.14,,47.29,1169.59,678.65,7.0,Electronics,Premium,Credit Card,,No,161.0,2.0,24.97,No,Neutral,Yes
+1342,2022-06-30,21.0,114478.84,768.0,,,592.94,,Home,Budget,Debit Card,2.0,No,294.0,4.0,31.16,,Positive,Yes
+1343,2022-04-05,18.0,57040.82,582.0,56.39,3384.29,565.08,5.0,Home,Budget,Credit Card,4.0,No,40.0,,11.37,No,Positive,No
+1344,2022-04-09,57.0,48263.97,679.0,233.34,,860.24,5.0,Beauty,Regular,Debit Card,5.0,No,363.0,,10.79,Yes,Negative,No
+1345,2022-07-07,37.0,9434.91,783.0,333.67,543.95,228.2,6.0,Beauty,Premium,Debit Card,3.0,Yes,164.0,5.0,12.04,No,Positive,Yes
+1346,2022-04-26,36.0,,730.0,85.33,6123.15,55.83,8.0,Clothing,Budget,Bank Transfer,,Yes,,8.0,9.11,No,Positive,No
+1347,2022-07-10,33.0,83913.02,810.0,469.43,2501.63,262.59,,Clothing,VIP,PayPal,5.0,No,334.0,2.0,20.33,No,,Yes
+1348,2022-09-10,44.0,57294.52,,,1463.36,275.09,8.0,Clothing,VIP,PayPal,5.0,Yes,,3.0,5.89,Yes,Positive,No
+1349,2022-06-10,65.0,64677.78,496.0,648.65,1231.04,1523.71,6.0,Beauty,Regular,Credit Card,5.0,Yes,263.0,6.0,,No,Neutral,Yes
+1350,2022-09-13,41.0,,700.0,14.03,1289.25,193.49,13.0,Beauty,Regular,Bank Transfer,3.0,Yes,352.0,6.0,,No,Neutral,No
+1351,2022-11-19,27.0,101905.91,716.0,226.51,3412.02,740.48,5.0,Electronics,Regular,PayPal,4.0,Yes,17.0,6.0,17.6,No,Positive,No
+1352,2022-05-08,33.0,29462.69,,102.13,5084.96,1335.55,7.0,Sports,Regular,Debit Card,3.0,Yes,172.0,3.0,49.25,No,,No
+1353,2022-01-18,47.0,39990.61,798.0,73.57,242.13,1145.09,6.0,Sports,Budget,Debit Card,2.0,Yes,351.0,7.0,19.51,,Neutral,Yes
+1354,2022-10-08,28.0,,733.0,150.24,16242.73,328.33,6.0,Electronics,Premium,Bank Transfer,3.0,No,32.0,7.0,12.3,,,Yes
+1355,2022-08-11,45.0,13063.56,756.0,182.54,14913.78,599.26,7.0,Sports,Regular,Credit Card,3.0,Yes,260.0,3.0,25.24,No,Negative,No
+1356,2022-02-23,18.0,,660.0,0.66,181.86,398.88,8.0,Beauty,Regular,Bank Transfer,1.0,Yes,,4.0,29.57,,Positive,No
+1357,2022-02-27,,17887.71,558.0,27.4,10972.11,166.15,6.0,Sports,Budget,Credit Card,1.0,Yes,329.0,2.0,36.58,No,Neutral,No
+1358,2022-11-19,42.0,,691.0,243.44,10575.15,825.13,9.0,Beauty,Regular,Bank Transfer,3.0,Yes,,7.0,14.48,No,Negative,No
+1359,2022-12-26,50.0,10486.23,,164.67,2982.55,513.06,7.0,Electronics,Regular,Debit Card,,Yes,4.0,7.0,6.29,No,Neutral,No
+1360,2022-06-23,25.0,28486.09,,,628.54,147.71,6.0,Clothing,Premium,Bank Transfer,5.0,No,33.0,7.0,5.98,No,Positive,Yes
+1361,2022-10-07,18.0,12906.47,763.0,214.72,10079.65,245.75,6.0,Electronics,VIP,PayPal,,Yes,279.0,5.0,11.51,No,Neutral,Yes
+1362,2022-04-24,,,,451.7,,294.76,,Sports,Regular,PayPal,1.0,No,,6.0,16.54,No,,Yes
+1363,2022-10-15,21.0,41595.82,653.0,181.87,5759.78,759.64,5.0,Beauty,Budget,Bank Transfer,3.0,Yes,350.0,,45.43,No,Neutral,Yes
+1364,2022-12-08,33.0,20741.82,728.0,53.08,42746.45,112.7,,Sports,Premium,Credit Card,5.0,Yes,70.0,3.0,6.03,No,Positive,No
+1365,2022-05-31,34.0,86832.12,625.0,21.71,4032.75,112.25,4.0,Sports,Budget,Credit Card,2.0,Yes,347.0,3.0,17.95,No,Neutral,No
+1366,2022-05-07,19.0,123894.11,628.0,1944.21,992.02,392.86,12.0,Clothing,Premium,Debit Card,5.0,Yes,,8.0,22.35,No,Positive,Yes
+1367,2022-06-04,44.0,6007.26,,154.99,1992.45,139.1,6.0,Sports,Premium,Debit Card,1.0,No,,6.0,9.07,Yes,Positive,No
+1368,2022-09-30,33.0,21027.92,756.0,,1155.94,288.66,,Clothing,Regular,Credit Card,2.0,No,277.0,10.0,3.99,No,Neutral,No
+1369,2022-04-14,47.0,38075.02,660.0,,5014.99,221.29,4.0,Beauty,Regular,Bank Transfer,5.0,No,270.0,7.0,3.43,No,Positive,No
+1370,2022-10-26,18.0,89401.58,563.0,,1133.11,33.91,8.0,Beauty,Regular,Debit Card,5.0,Yes,,10.0,54.82,No,,Yes
+1371,2022-09-03,22.0,25250.58,606.0,104.09,1690.16,185.73,2.0,Clothing,VIP,Credit Card,5.0,Yes,14.0,5.0,35.0,,Negative,No
+1372,2022-06-25,,35740.93,700.0,85.04,638.22,281.23,6.0,Electronics,VIP,Credit Card,5.0,Yes,241.0,6.0,5.75,Yes,Negative,Yes
+1373,2022-02-08,25.0,14394.55,699.0,91.79,,647.7,9.0,Beauty,Budget,Bank Transfer,4.0,No,152.0,,17.41,Yes,Neutral,No
+1374,2022-06-19,33.0,,704.0,35.15,3685.29,1158.05,6.0,Electronics,Regular,PayPal,1.0,Yes,52.0,4.0,,No,Positive,No
+1375,2022-09-04,,115417.09,732.0,89.7,118.9,169.89,10.0,Beauty,VIP,Credit Card,5.0,No,148.0,5.0,15.65,Yes,Positive,Yes
+1376,2022-01-26,36.0,8440.05,680.0,69.26,4070.37,379.89,6.0,Beauty,Regular,Debit Card,2.0,Yes,357.0,6.0,6.77,No,Positive,Yes
+1377,2022-12-21,26.0,233957.61,706.0,10.49,2821.88,483.4,8.0,Home,VIP,Bank Transfer,,Yes,218.0,3.0,47.2,No,Positive,No
+1378,2022-11-02,,64868.74,675.0,284.54,1190.36,1446.74,3.0,Sports,VIP,Bank Transfer,4.0,Yes,112.0,5.0,,No,Positive,No
+1379,2022-01-13,25.0,62566.07,794.0,105.05,,212.01,5.0,Sports,Premium,Bank Transfer,5.0,Yes,287.0,3.0,13.82,No,,Yes
+1380,2022-11-12,43.0,57548.02,823.0,259.05,9416.06,161.14,11.0,Electronics,Regular,PayPal,5.0,No,276.0,2.0,17.37,No,Positive,No
+1381,2022-11-09,33.0,29668.81,561.0,284.92,799.76,248.42,,Sports,Regular,PayPal,5.0,Yes,,6.0,6.64,Yes,Positive,Yes
+1382,2022-02-05,36.0,49695.4,654.0,35.74,8150.91,160.02,7.0,Electronics,VIP,Debit Card,4.0,No,217.0,5.0,8.57,No,Neutral,Yes
+1383,2022-06-22,65.0,31222.14,683.0,,13271.81,540.27,8.0,Beauty,Regular,Debit Card,5.0,Yes,225.0,5.0,49.38,Yes,Positive,No
+1384,2022-01-20,21.0,56526.15,,95.88,3492.68,662.25,4.0,Home,VIP,Bank Transfer,,No,269.0,7.0,23.02,Yes,Positive,Yes
+1385,2022-11-17,,35349.9,850.0,,4599.63,403.6,12.0,Home,Regular,Debit Card,1.0,Yes,14.0,7.0,14.57,No,Positive,Yes
+1386,2022-09-21,18.0,16978.81,702.0,36.45,4473.9,383.38,11.0,Beauty,Premium,Credit Card,1.0,No,289.0,8.0,,No,Neutral,No
+1387,2022-05-22,18.0,18097.73,599.0,169.89,243.96,836.8,6.0,Clothing,Regular,PayPal,3.0,No,338.0,3.0,26.63,Yes,Neutral,Yes
+1388,2022-05-23,20.0,16524.21,,140.38,2382.14,283.32,9.0,Clothing,Premium,Bank Transfer,2.0,No,264.0,,19.13,No,,No
+1389,2022-04-02,,78961.89,,68.25,2237.93,586.97,14.0,Sports,Budget,Bank Transfer,5.0,Yes,198.0,5.0,17.86,Yes,Positive,No
+1390,2022-12-20,37.0,22159.97,710.0,162.09,16583.89,279.31,8.0,Electronics,Regular,Credit Card,1.0,No,,6.0,16.4,No,Neutral,No
+1391,2022-11-18,38.0,7866.1,850.0,158.18,4449.17,115.93,8.0,Home,Regular,Credit Card,4.0,Yes,332.0,,35.32,,Neutral,Yes
+1392,2022-10-15,31.0,49884.77,715.0,201.25,2085.71,750.18,,Sports,Regular,Credit Card,4.0,Yes,,8.0,11.23,No,Positive,Yes
+1393,2022-08-03,33.0,121980.2,649.0,,2675.39,422.11,8.0,Beauty,Premium,Credit Card,5.0,Yes,,4.0,16.64,Yes,Positive,No
+1394,2022-12-08,41.0,67404.47,484.0,201.86,10178.8,703.6,,Home,Regular,Bank Transfer,5.0,Yes,183.0,3.0,,No,Neutral,No
+1395,2022-02-20,,,663.0,75.41,2388.69,458.26,11.0,Electronics,Regular,PayPal,5.0,No,264.0,7.0,23.44,,,No
+1396,2022-06-02,19.0,10204.16,810.0,187.35,1289.7,499.7,5.0,Electronics,VIP,PayPal,4.0,Yes,245.0,8.0,,No,Neutral,No
+1397,2022-07-05,30.0,32616.89,670.0,33.32,2141.28,164.31,12.0,Clothing,Budget,Credit Card,3.0,Yes,35.0,10.0,13.96,No,Positive,Yes
+1398,2022-03-04,34.0,31972.16,455.0,331.38,9217.28,490.34,9.0,Sports,Premium,Debit Card,3.0,No,,,12.18,No,Neutral,No
+1399,2022-07-09,40.0,,630.0,50.83,5406.72,831.29,,Beauty,VIP,Bank Transfer,4.0,Yes,18.0,4.0,10.05,No,Positive,No
+1400,2022-05-05,25.0,56434.16,779.0,68.78,3143.59,312.26,6.0,Home,Premium,PayPal,5.0,No,22.0,3.0,15.04,No,Positive,No
+1401,2022-05-30,33.0,159102.07,734.0,,3751.26,203.04,9.0,Electronics,VIP,Credit Card,4.0,Yes,103.0,6.0,12.12,,Positive,Yes
+1402,2022-11-10,35.0,,596.0,17.74,1522.8,602.3,9.0,Home,Budget,Debit Card,3.0,Yes,,10.0,34.0,No,Negative,No
+1403,2022-02-27,26.0,41290.22,623.0,108.81,2361.99,101.82,9.0,Beauty,VIP,Debit Card,5.0,Yes,360.0,,18.85,Yes,Negative,Yes
+1404,2022-12-08,26.0,17157.96,638.0,46.71,1344.85,904.63,9.0,Home,Premium,Credit Card,2.0,No,203.0,3.0,34.21,No,Neutral,No
+1405,2022-11-01,36.0,111071.76,613.0,351.92,2092.81,276.42,7.0,Sports,Regular,Bank Transfer,2.0,No,252.0,8.0,,No,Neutral,Yes
+1406,2022-06-29,33.0,34196.71,477.0,2.22,14994.13,588.3,5.0,Clothing,Regular,PayPal,1.0,No,141.0,4.0,4.82,Yes,Positive,No
+1407,2022-06-19,,22852.81,756.0,71.49,817.75,424.74,2.0,Home,Budget,Debit Card,,Yes,301.0,6.0,29.21,No,Neutral,No
+1408,2022-11-22,22.0,38213.75,805.0,,1304.45,752.79,9.0,Clothing,Premium,PayPal,4.0,Yes,142.0,7.0,55.02,No,Positive,No
+1409,2022-09-28,,52974.67,,2.93,,780.15,6.0,Beauty,Premium,PayPal,1.0,Yes,270.0,1.0,24.49,No,Positive,No
+1410,2022-02-23,,40593.87,804.0,19.92,,391.4,7.0,Clothing,Premium,Debit Card,5.0,Yes,306.0,4.0,20.61,,,Yes
+1411,2022-04-11,,95313.12,669.0,104.1,,1018.33,4.0,Home,Budget,Credit Card,5.0,Yes,109.0,9.0,6.22,No,Positive,No
+1412,2022-09-21,23.0,,802.0,101.85,1420.65,92.8,9.0,Home,Regular,Debit Card,3.0,No,7.0,5.0,6.31,No,Positive,No
+1413,2022-02-22,37.0,28936.14,683.0,,24686.87,481.57,8.0,Electronics,VIP,Debit Card,4.0,Yes,,2.0,,No,Positive,No
+1414,2022-03-01,38.0,50058.81,693.0,113.55,,841.41,10.0,Home,Budget,Bank Transfer,,Yes,189.0,,28.68,Yes,,No
+1415,2022-04-18,54.0,54160.64,717.0,135.63,14006.49,497.89,9.0,Clothing,VIP,PayPal,4.0,No,178.0,4.0,9.31,No,Neutral,Yes
+1416,2022-01-05,,12873.15,600.0,1.5,9524.36,202.56,9.0,Electronics,Regular,Credit Card,1.0,No,62.0,9.0,60.14,Yes,Positive,No
+1417,2022-04-13,27.0,91083.85,799.0,,2319.84,397.76,2.0,Home,Budget,PayPal,5.0,Yes,67.0,4.0,38.11,No,Positive,Yes
+1418,2022-07-15,23.0,28546.13,567.0,496.56,37502.49,216.84,6.0,Home,Regular,Debit Card,2.0,Yes,,4.0,25.19,,Negative,No
+1419,2022-09-19,18.0,29136.34,639.0,109.79,4114.37,210.88,7.0,Beauty,VIP,Credit Card,5.0,Yes,5.0,5.0,37.41,No,Positive,Yes
+1420,2022-12-31,56.0,66244.04,,220.7,18317.48,412.82,7.0,Electronics,Premium,Credit Card,3.0,Yes,,5.0,10.07,No,Negative,Yes
+1421,2022-12-16,20.0,66021.27,629.0,72.88,15929.31,14.9,9.0,Beauty,Premium,Credit Card,5.0,No,312.0,3.0,24.6,No,Neutral,Yes
+1422,2022-02-16,25.0,20729.95,,,4902.88,284.83,6.0,Beauty,VIP,Credit Card,4.0,Yes,30.0,8.0,14.18,No,Positive,Yes
+1423,2022-12-21,50.0,69031.71,817.0,289.08,7341.93,384.58,6.0,Beauty,Premium,Bank Transfer,,No,5.0,5.0,4.2,Yes,,No
+1424,2022-11-07,18.0,,781.0,110.5,6303.66,367.08,10.0,Sports,VIP,Credit Card,4.0,No,206.0,,22.79,No,Positive,Yes
+1425,2022-11-04,44.0,155695.65,,727.4,755.13,177.37,10.0,Beauty,Budget,Debit Card,5.0,No,156.0,5.0,31.16,No,Positive,Yes
+1426,2022-05-24,18.0,18721.82,692.0,20.12,3193.1,495.44,12.0,Clothing,Budget,Bank Transfer,1.0,Yes,66.0,4.0,21.1,No,Positive,No
+1427,2022-09-26,49.0,43984.03,782.0,2.56,,351.43,,Home,Budget,Debit Card,5.0,Yes,,6.0,,No,Positive,No
+1428,2022-05-04,18.0,19426.35,548.0,220.55,18609.43,1224.95,5.0,Sports,Premium,Debit Card,4.0,No,352.0,3.0,27.05,No,Positive,No
+1429,2022-04-16,18.0,214949.09,752.0,320.94,1255.43,512.25,,Beauty,Regular,PayPal,3.0,Yes,,5.0,34.91,No,Neutral,No
+1430,2022-06-07,28.0,13490.53,,19.21,5622.87,222.54,,Home,Premium,Credit Card,2.0,Yes,288.0,,7.23,No,Positive,Yes
+1431,2022-05-27,46.0,,558.0,46.3,3572.58,593.41,,Electronics,Premium,Credit Card,,Yes,139.0,7.0,8.64,No,Neutral,Yes
+1432,2022-05-25,34.0,20172.42,763.0,2.66,,64.09,14.0,Electronics,Regular,Debit Card,1.0,Yes,299.0,,21.61,No,Positive,Yes
+1433,2022-04-30,30.0,27356.62,707.0,52.07,,365.18,2.0,Home,Regular,Credit Card,,No,12.0,7.0,21.01,No,Neutral,No
+1434,2022-11-15,51.0,52199.61,745.0,222.51,3872.27,422.72,7.0,Clothing,Regular,Bank Transfer,3.0,Yes,151.0,5.0,27.8,No,Positive,No
+1435,2022-10-02,60.0,96728.9,583.0,142.3,5708.37,368.32,7.0,Home,Regular,PayPal,4.0,Yes,312.0,4.0,8.48,No,Neutral,Yes
+1436,2022-04-02,43.0,133081.53,,,16815.56,168.24,5.0,Home,Premium,Credit Card,2.0,Yes,351.0,3.0,,No,Positive,Yes
+1437,2022-02-27,27.0,10619.44,509.0,69.72,7638.47,360.39,7.0,Sports,VIP,Credit Card,,Yes,108.0,6.0,,,Neutral,No
+1438,2022-12-12,29.0,,452.0,0.2,4327.35,120.56,8.0,Electronics,Budget,Bank Transfer,5.0,No,355.0,2.0,5.06,No,Positive,Yes
+1439,2022-08-17,19.0,,,,27932.61,1031.11,,Electronics,VIP,PayPal,,No,148.0,5.0,2.61,No,Positive,No
+1440,2022-04-27,36.0,9430.94,790.0,155.96,11292.74,362.66,12.0,Beauty,Premium,Bank Transfer,,Yes,203.0,5.0,15.33,No,Positive,No
+1441,2022-11-14,,46700.34,705.0,3798.26,2668.1,482.26,4.0,Home,Regular,Debit Card,,Yes,306.0,4.0,24.4,,Positive,No
+1442,2022-10-06,41.0,36255.01,673.0,281.66,691.91,87.43,6.0,Home,Budget,Debit Card,3.0,Yes,20.0,8.0,18.0,No,Positive,No
+1443,2022-05-07,59.0,50596.29,661.0,,911.05,207.49,8.0,Clothing,Budget,Credit Card,4.0,No,59.0,2.0,34.87,No,Positive,Yes
+1444,2022-05-09,43.0,,585.0,,9135.1,520.67,9.0,Electronics,VIP,PayPal,4.0,Yes,20.0,6.0,23.97,No,Positive,No
+1445,2022-02-27,29.0,11516.14,657.0,229.32,1399.16,680.5,6.0,Clothing,Premium,Debit Card,4.0,No,362.0,4.0,,No,Positive,No
+1446,2022-05-02,41.0,7859.79,722.0,227.38,889.21,151.15,11.0,Sports,Premium,Bank Transfer,5.0,Yes,,6.0,,Yes,Neutral,No
+1447,2022-01-01,54.0,79309.02,636.0,,1200.26,480.71,6.0,Beauty,Premium,Debit Card,2.0,No,72.0,2.0,,No,Negative,No
+1448,2022-08-27,53.0,87837.11,755.0,98.96,1306.54,251.25,9.0,Clothing,Budget,Debit Card,3.0,Yes,75.0,5.0,18.26,No,Positive,No
+1449,2022-10-17,22.0,46265.34,699.0,54.13,8273.2,58.7,12.0,Electronics,VIP,Bank Transfer,4.0,No,,3.0,7.77,No,Neutral,No
+1450,2022-04-06,41.0,,711.0,10.19,2469.84,201.65,,Sports,Budget,Credit Card,1.0,Yes,77.0,7.0,19.71,,Neutral,Yes
+1451,2022-05-06,,9912.61,768.0,38.86,574.3,696.29,14.0,Home,Budget,PayPal,1.0,No,,3.0,7.7,No,Positive,Yes
+1452,2022-04-28,44.0,56992.58,627.0,42.47,3094.1,749.54,6.0,Sports,Regular,Credit Card,3.0,Yes,341.0,,28.58,No,Positive,Yes
+1453,2022-02-17,39.0,15053.66,745.0,99.27,3892.16,411.86,9.0,Clothing,VIP,Bank Transfer,4.0,Yes,289.0,4.0,27.17,No,Positive,No
+1454,2022-03-30,18.0,20557.09,641.0,206.42,,376.3,8.0,Electronics,Regular,Debit Card,3.0,No,55.0,6.0,8.99,Yes,,No
+1455,2022-08-25,30.0,22714.27,,96.31,11932.99,247.43,10.0,Clothing,Premium,PayPal,5.0,Yes,330.0,6.0,,No,Positive,Yes
+1456,2022-09-29,37.0,31007.11,,8.94,,26.39,9.0,Home,Budget,Credit Card,2.0,No,258.0,8.0,23.05,No,Neutral,Yes
+1457,2022-07-08,18.0,19786.75,588.0,474.76,11271.19,447.16,5.0,Home,VIP,Bank Transfer,5.0,No,,5.0,26.34,Yes,Neutral,No
+1458,2022-07-11,41.0,37300.69,689.0,428.98,6100.58,161.93,7.0,Electronics,Premium,Debit Card,1.0,Yes,5.0,2.0,5.68,No,Positive,Yes
+1459,2022-03-10,18.0,22082.6,491.0,230.7,,826.05,10.0,Beauty,VIP,Debit Card,4.0,Yes,5.0,9.0,6.87,Yes,Positive,Yes
+1460,2022-10-05,25.0,,,925.79,797.71,113.47,6.0,Sports,Budget,Credit Card,4.0,Yes,190.0,4.0,,No,,Yes
+1461,2022-12-15,51.0,82855.25,519.0,,3354.21,723.99,7.0,Sports,VIP,Bank Transfer,4.0,Yes,,7.0,9.24,Yes,Positive,Yes
+1462,2022-09-04,,39609.89,757.0,493.59,2797.85,56.27,,Home,Premium,Debit Card,,Yes,257.0,3.0,36.63,Yes,Positive,No
+1463,2022-03-17,41.0,52580.52,785.0,11.79,541.09,1534.56,6.0,Clothing,Regular,Debit Card,,No,217.0,8.0,14.62,No,Positive,Yes
+1464,2022-06-03,18.0,197656.26,593.0,88.76,11226.96,91.25,5.0,Clothing,Budget,PayPal,2.0,Yes,89.0,2.0,22.92,No,Negative,No
+1465,2022-05-24,59.0,14213.07,722.0,38.31,1117.8,751.16,7.0,Beauty,Regular,Debit Card,1.0,Yes,311.0,2.0,20.16,Yes,Positive,No
+1466,2022-03-27,31.0,13537.59,769.0,32.69,1434.42,196.76,4.0,Clothing,Budget,Credit Card,1.0,Yes,351.0,5.0,23.48,No,Neutral,Yes
+1467,2022-07-04,36.0,63322.65,,121.07,,518.62,12.0,Sports,Premium,Bank Transfer,2.0,Yes,9.0,,17.15,,Positive,Yes
+1468,2022-10-12,37.0,172341.68,701.0,189.92,6914.83,1035.77,12.0,Clothing,Budget,Bank Transfer,5.0,Yes,86.0,9.0,41.37,No,,No
+1469,2022-08-08,42.0,,753.0,,477.65,270.13,9.0,Beauty,Regular,PayPal,2.0,No,249.0,7.0,15.14,,Negative,No
+1470,2022-03-10,18.0,144562.48,,168.37,,1444.63,7.0,Sports,Budget,Bank Transfer,3.0,No,325.0,5.0,20.63,No,,Yes
+1471,2022-02-16,34.0,39228.04,688.0,23.84,10440.18,1052.83,5.0,Clothing,Premium,Credit Card,1.0,Yes,150.0,3.0,,No,,Yes
+1472,2022-04-04,27.0,21063.36,,250.0,5679.48,79.19,5.0,Sports,Budget,Debit Card,2.0,No,112.0,4.0,14.36,No,Neutral,Yes
+1473,2022-08-26,18.0,,,151.57,7010.43,332.89,7.0,Home,Regular,PayPal,,Yes,29.0,6.0,15.41,No,Positive,No
+1474,2022-07-23,46.0,60085.92,683.0,73.69,7416.45,277.89,6.0,Home,Premium,Bank Transfer,1.0,No,,5.0,,Yes,Neutral,Yes
+1475,2022-08-06,30.0,17466.37,714.0,168.19,954.03,350.18,7.0,Home,Regular,PayPal,5.0,No,77.0,2.0,,Yes,Positive,No
+1476,2022-12-07,,38755.25,796.0,45.15,16675.27,248.73,9.0,Clothing,Budget,PayPal,,No,54.0,5.0,28.22,,Neutral,Yes
+1477,2022-02-08,37.0,128897.4,706.0,,1716.27,152.11,8.0,Beauty,VIP,Bank Transfer,4.0,Yes,304.0,6.0,3.37,Yes,Neutral,No
+1478,2022-04-10,30.0,28412.25,744.0,374.22,2752.69,317.62,6.0,Sports,Regular,PayPal,5.0,Yes,33.0,5.0,40.48,No,Positive,Yes
+1479,2022-10-16,58.0,103902.43,745.0,66.92,1999.87,506.44,9.0,Electronics,Budget,Bank Transfer,5.0,Yes,,6.0,48.76,No,Negative,No
+1480,2022-09-11,34.0,13744.1,850.0,95.23,5376.81,14.5,8.0,Home,VIP,Credit Card,4.0,No,171.0,,13.21,No,Negative,Yes
+1481,2022-08-10,18.0,23691.53,498.0,331.28,1562.99,638.2,5.0,Home,VIP,Bank Transfer,,Yes,21.0,2.0,15.29,,Positive,Yes
+1482,2022-12-23,30.0,,611.0,184.51,3230.2,383.36,9.0,Electronics,Premium,Debit Card,5.0,No,286.0,4.0,10.99,No,Negative,No
+1483,2022-01-23,40.0,38499.38,827.0,9.63,676.94,919.54,6.0,Electronics,VIP,Bank Transfer,4.0,Yes,104.0,6.0,12.28,Yes,Neutral,No
+1484,2022-09-07,41.0,67782.72,644.0,31.07,,232.4,8.0,Clothing,Regular,Debit Card,,No,148.0,2.0,16.92,No,Neutral,No
+1485,2022-01-10,21.0,,768.0,,6666.76,206.35,6.0,Sports,Regular,PayPal,5.0,Yes,271.0,4.0,28.27,No,Negative,No
+1486,2022-09-03,,96919.89,703.0,194.37,2099.15,168.13,7.0,Home,VIP,Bank Transfer,4.0,Yes,275.0,3.0,27.01,,Positive,Yes
+1487,2022-11-21,18.0,19943.46,850.0,305.26,1697.69,487.28,8.0,Beauty,Budget,Debit Card,4.0,Yes,298.0,3.0,29.39,No,Neutral,No
+1488,2022-04-10,48.0,43489.47,568.0,21.63,6461.09,48.58,5.0,Clothing,Regular,Bank Transfer,1.0,Yes,171.0,,21.99,No,Negative,Yes
+1489,2022-10-17,19.0,23813.9,802.0,475.28,1275.7,178.98,8.0,Clothing,Regular,Bank Transfer,4.0,Yes,46.0,4.0,,,Positive,Yes
+1490,2022-06-29,32.0,48501.08,850.0,113.14,3464.9,387.69,5.0,Beauty,Premium,Bank Transfer,,No,113.0,6.0,11.28,Yes,Positive,No
+1491,2022-08-11,,54338.53,578.0,41.54,12012.21,77.73,,Beauty,Budget,Credit Card,,Yes,274.0,3.0,3.43,No,Positive,No
+1492,2022-09-07,,57867.82,758.0,104.15,1126.07,358.23,11.0,Beauty,VIP,Debit Card,4.0,Yes,303.0,7.0,3.94,,Neutral,No
+1493,2022-05-27,44.0,15421.6,583.0,170.74,4639.31,811.39,,Electronics,Budget,Credit Card,2.0,No,206.0,3.0,42.75,No,Neutral,No
+1494,2022-04-06,42.0,,683.0,11.9,,741.39,6.0,Home,Premium,Credit Card,2.0,Yes,241.0,3.0,12.52,No,Positive,No
+1495,2022-09-14,50.0,,654.0,48.18,2652.34,306.38,11.0,Electronics,Premium,Debit Card,1.0,No,300.0,11.0,20.31,No,Positive,Yes
+1496,2022-11-21,,29998.28,439.0,246.73,1628.56,663.7,7.0,Home,Budget,Bank Transfer,1.0,No,195.0,,32.44,,Positive,No
+1497,2022-01-04,29.0,,722.0,92.33,12807.12,473.16,10.0,Electronics,Premium,Credit Card,2.0,Yes,163.0,8.0,23.09,No,Positive,No
+1498,2022-01-16,,63989.31,694.0,154.23,1455.23,387.39,8.0,Sports,Premium,Credit Card,4.0,Yes,175.0,10.0,20.07,No,Neutral,No
+1499,2022-10-07,18.0,,827.0,85.06,338.85,530.73,,Home,Premium,Credit Card,4.0,Yes,342.0,4.0,15.94,No,Positive,No
+1500,2022-12-02,34.0,10088.83,741.0,6.73,,247.92,,Clothing,Budget,Bank Transfer,5.0,No,270.0,5.0,8.02,,Neutral,No
+1362,2022-04-24,,,,451.7,,294.76,,Sports,Regular,PayPal,1.0,No,,6.0,16.54,No,,Yes
+1074,2022-09-27,,,568.0,151.63,607.52,267.67,5.0,Clothing,VIP,Debit Card,4.0,Yes,78.0,6.0,,No,Neutral,No
+1375,2022-09-04,,115417.09,732.0,89.7,118.9,169.89,10.0,Beauty,VIP,Credit Card,5.0,No,148.0,5.0,15.65,Yes,Positive,Yes
+1156,2022-08-31,,30783.87,665.0,620.4,3127.29,999.92,,Electronics,Premium,Debit Card,5.0,Yes,270.0,8.0,14.53,,Positive,No
+1105,2022-06-12,,20918.05,,292.33,8402.76,282.98,6.0,Beauty,VIP,Bank Transfer,4.0,Yes,50.0,6.0,13.33,No,,No
+1395,2022-02-20,,,663.0,75.41,2388.69,458.26,11.0,Electronics,Regular,PayPal,5.0,No,264.0,7.0,23.44,,,No
+1378,2022-11-02,,64868.74,675.0,284.54,1190.36,1446.74,3.0,Sports,VIP,Bank Transfer,4.0,Yes,112.0,5.0,,No,Positive,No
+1125,2022-08-15,,,708.0,,186.6,906.93,7.0,Sports,VIP,Bank Transfer,4.0,Yes,70.0,2.0,,No,Positive,No
+1069,2022-07-10,,27172.81,640.0,,16208.01,759.7,13.0,Clothing,VIP,PayPal,5.0,Yes,202.0,2.0,19.36,No,Positive,Yes
+1451,2022-05-06,,9912.61,768.0,38.86,574.3,696.29,14.0,Home,Budget,PayPal,1.0,No,,3.0,7.7,No,Positive,Yes
+1010,2022-08-03,,54221.17,796.0,533.85,3599.2,550.02,10.0,Beauty,Regular,Debit Card,4.0,No,222.0,3.0,15.03,No,Positive,Yes
+1195,2022-06-29,,,,498.76,2094.11,407.04,,Clothing,Budget,PayPal,2.0,Yes,,2.0,38.23,,Positive,Yes
+1407,2022-06-19,,22852.81,756.0,71.49,817.75,424.74,2.0,Home,Budget,Debit Card,,Yes,301.0,6.0,29.21,No,Neutral,No
+1085,2022-12-04,,95273.07,592.0,,10347.05,180.7,5.0,Clothing,VIP,PayPal,5.0,Yes,55.0,7.0,9.9,No,Negative,Yes
+1372,2022-06-25,,35740.93,700.0,85.04,638.22,281.23,6.0,Electronics,VIP,Credit Card,5.0,Yes,241.0,6.0,5.75,Yes,Negative,Yes
+1389,2022-04-02,,78961.89,,68.25,2237.93,586.97,14.0,Sports,Budget,Bank Transfer,5.0,Yes,198.0,5.0,17.86,Yes,Positive,No
+1496,2022-11-21,,29998.28,439.0,246.73,1628.56,663.7,7.0,Home,Budget,Bank Transfer,1.0,No,195.0,,32.44,,Positive,No
+1031,2022-02-28,,,730.0,143.98,1293.61,55.75,6.0,Electronics,Premium,Debit Card,,No,116.0,6.0,,No,Negative,No
+1317,2022-01-27,,17140.95,635.0,110.15,753.97,531.84,8.0,Sports,Regular,Debit Card,3.0,No,146.0,,,Yes,Neutral,Yes
+1409,2022-09-28,,52974.67,,2.93,,780.15,6.0,Beauty,Premium,PayPal,1.0,Yes,270.0,1.0,24.49,No,Positive,No
+1491,2022-08-11,,54338.53,578.0,41.54,12012.21,77.73,,Beauty,Budget,Credit Card,,Yes,274.0,3.0,3.43,No,Positive,No
+1492,2022-09-07,,57867.82,758.0,104.15,1126.07,358.23,11.0,Beauty,VIP,Debit Card,4.0,Yes,303.0,7.0,3.94,,Neutral,No
+1281,2022-04-26,,10459.66,627.0,53.41,38935.42,266.08,7.0,Home,VIP,Bank Transfer,5.0,Yes,,,,Yes,Positive,Yes
+1357,2022-02-27,,17887.71,558.0,27.4,10972.11,166.15,6.0,Sports,Budget,Credit Card,1.0,Yes,329.0,2.0,36.58,No,Neutral,No
+1077,2022-09-28,,,,403.47,1920.85,430.57,9.0,Sports,Regular,Credit Card,3.0,Yes,161.0,5.0,19.14,Yes,Negative,No
+1462,2022-09-04,,39609.89,757.0,493.59,2797.85,56.27,,Home,Premium,Debit Card,,Yes,257.0,3.0,36.63,Yes,Positive,No
+1498,2022-01-16,,63989.31,694.0,154.23,1455.23,387.39,8.0,Sports,Premium,Credit Card,4.0,Yes,175.0,10.0,20.07,No,Neutral,No
+1212,2022-08-12,,15520.14,650.0,133.28,637.05,827.14,,Clothing,Budget,Debit Card,3.0,Yes,,1.0,24.11,No,Positive,No
+1102,2022-03-04,,53340.42,,88.7,11618.43,190.99,9.0,Sports,VIP,Credit Card,4.0,No,293.0,7.0,74.89,Yes,Neutral,No
+1335,2022-01-06,,15188.98,,0.57,858.84,208.27,7.0,Electronics,VIP,Debit Card,4.0,No,,6.0,34.15,No,Negative,Yes
+1476,2022-12-07,,38755.25,796.0,45.15,16675.27,248.73,9.0,Clothing,Budget,PayPal,,No,54.0,5.0,28.22,,Neutral,Yes
+1337,2022-08-21,,,,202.58,3410.2,751.73,6.0,Beauty,Premium,Debit Card,5.0,Yes,318.0,4.0,14.71,No,Neutral,No
+1441,2022-11-14,,46700.34,705.0,3798.26,2668.1,482.26,4.0,Home,Regular,Debit Card,,Yes,306.0,4.0,24.4,,Positive,No
+1174,2022-07-09,,53805.11,687.0,47.26,794.61,316.59,7.0,Clothing,Budget,Credit Card,5.0,No,54.0,0.0,22.03,No,Positive,No
+1003,2022-09-28,,51912.34,763.0,11.04,5102.24,810.45,10.0,Sports,Budget,Bank Transfer,1.0,Yes,132.0,5.0,14.06,No,,Yes
+1334,2022-02-15,,61989.88,689.0,356.55,5663.14,409.42,10.0,Home,Regular,PayPal,,Yes,186.0,,,,,Yes
+1410,2022-02-23,,40593.87,804.0,19.92,,391.4,7.0,Clothing,Premium,Debit Card,5.0,Yes,306.0,4.0,20.61,,,Yes
+1071,2022-02-13,,56094.85,766.0,,1933.2,111.51,10.0,Sports,Regular,Debit Card,,No,,7.0,26.84,No,Positive,No
+1210,2022-02-23,,20221.43,596.0,99.08,,433.21,9.0,Clothing,Regular,Bank Transfer,2.0,No,128.0,9.0,47.45,No,,Yes
+1064,2022-01-02,,20683.76,648.0,208.65,70337.93,241.64,12.0,Beauty,Premium,Credit Card,4.0,Yes,296.0,6.0,12.79,Yes,Neutral,Yes
+1385,2022-11-17,,35349.9,850.0,,4599.63,403.6,12.0,Home,Regular,Debit Card,1.0,Yes,14.0,7.0,14.57,No,Positive,Yes
+1094,2022-10-28,,50886.25,772.0,158.46,,248.62,12.0,Clothing,Regular,Bank Transfer,5.0,Yes,68.0,5.0,11.0,No,Positive,Yes
+1486,2022-09-03,,96919.89,703.0,194.37,2099.15,168.13,7.0,Home,VIP,Bank Transfer,4.0,Yes,275.0,3.0,27.01,,Positive,Yes
+1186,2022-08-13,,80547.45,637.0,190.43,2450.42,209.48,6.0,Home,Regular,Credit Card,,No,105.0,,5.18,No,,Yes
+1034,2022-09-28,,68523.11,615.0,138.08,,296.32,6.0,Home,VIP,PayPal,4.0,Yes,126.0,4.0,,No,Positive,No
+1078,2022-08-03,,16974.25,850.0,,5077.92,405.65,7.0,Clothing,VIP,Debit Card,,Yes,,8.0,22.86,No,,Yes
+1001,2022-04-13,,69897.68,,137.62,2342.8,109.42,9.0,Home,Budget,Credit Card,2.0,Yes,193.0,2.0,21.85,Yes,Positive,No
+1012,2022-03-29,,100946.05,739.0,128.28,3132.71,371.13,5.0,Clothing,Regular,Debit Card,1.0,Yes,116.0,4.0,58.0,No,,Yes
+1416,2022-01-05,,12873.15,600.0,1.5,9524.36,202.56,9.0,Electronics,Regular,Credit Card,1.0,No,62.0,9.0,60.14,Yes,Positive,No
+1023,2022-10-04,,64261.74,850.0,80.69,3938.63,240.83,4.0,Sports,VIP,Bank Transfer,,Yes,153.0,,41.86,,Positive,Yes
